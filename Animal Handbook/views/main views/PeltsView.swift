@@ -11,22 +11,33 @@ struct PeltsView: View {
     @State var animals: [Animal]
     @State var pelts: [Pelt]
     
+    @State private var searchText = ""
+    
     var body: some View {
         NavigationStack {
             List {
-                ForEach(pelts) { pelt in
-                    NavigationLink(value: pelt) {
+                ForEach(searchResults, id: \.self) { pelt in
+                    NavigationLink {
+                        PeltDetail(pelt: pelt, compact: false)
+                    } label: {
                         PeltRow(pelt: pelt)
                     }
                 }
             }
-            .navigationDestination(for: Pelt.self) { pelt in
-                PeltDetail(pelt: pelt, compact: false)
-            }
-            .navigationTitle("Drops")
+            .navigationTitle("Pelts")
         }
+        .searchable(text: $searchText)
     }
+    
+    var searchResults: [Pelt] {
+        if searchText.isEmpty {
+            return pelts
+        } else {
+            return pelts.filter { $0.name.localizedCaseInsensitiveContains(searchText) } }
+    }
+    
 }
+
 
 //struct PeltsView_Preview: PreviewProvider {
 //    static var previews: some View {

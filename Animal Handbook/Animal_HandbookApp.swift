@@ -23,13 +23,13 @@ struct Hunting_HandbookApp: App {
             //Views Controller
             switch selectedIndex {
             case 0: AnimalsView(animals: animals, pelts: pelts)
-                    .preferredColorScheme(.dark)
+//                    .preferredColorScheme(.dark)
             case 1: PeltsView(animals: animals, pelts: pelts)
-                    .preferredColorScheme(.dark)
+//                    .preferredColorScheme(.dark)
             case 2: CreditsView()
-                    .preferredColorScheme(.dark)
+//                    .preferredColorScheme(.dark)
             default: AnimalsView(animals: animals, pelts: pelts)
-                    .preferredColorScheme(.dark)
+//                    .preferredColorScheme(.dark)
             }
             
             //Tab Bar

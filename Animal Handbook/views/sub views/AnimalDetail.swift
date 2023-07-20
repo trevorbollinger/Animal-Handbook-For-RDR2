@@ -24,31 +24,34 @@ struct AnimalDetail: View {
             VStack(alignment: .leading) {
                 
                 //Description
-                VStack(alignment: .leading) {
-                    //title
-                    HStack(alignment: .center) {
-                        Image(systemName: "newspaper")
-                            .bold()
-                            .font(.headline)
-                        
-                        Text("Description")
-                            .font(.title)
-                            .bold()
-                            .padding(.top, paddingAmount)
-                            .padding(.bottom, paddingAmount)
-                        
-                        Spacer()
-                        
-                        if animal.danger == "5" {
-                            Image(systemName: "hazardsign.fill")
+                if animal.description != "" {
+                    VStack(alignment: .leading) {
+                        //title
+                        HStack(alignment: .center) {
+                            Image(systemName: "newspaper")
+                                .bold()
+                                .font(.headline)
+                            
+                            Text("Description")
+                                .font(.title)
+                                .bold()
+                                .padding(.top, paddingAmount)
+                                .padding(.bottom, paddingAmount)
+                            
+                            Spacer()
+                            
+                            if animal.danger == "5" {
+                                Image(systemName: "hazardsign.fill")
+                            }
                         }
+                        //body
+                        Text(animal.description)
+                            .font(.body)
                     }
-                    //body
-                    Text(animal.description)
-                        .font(.body)
+                    .padding(.bottom, paddingAmount)
+                    
                 }
-                .padding(.bottom, paddingAmount)
-                
+
                 
                 Divider()
                 
@@ -175,9 +178,22 @@ struct AnimalDetail: View {
                                         }
                                     }
                                     //Feathers
-                                case "Blue Jay Feather", "Booby Feather":
+                                case "Blue Jay Feather", "Booby Feather", "Cardinal Feather", "Chicken Feather", "Condor Feather", "Cormorant Feather", "Crane Feather", "Crow Feather", "Duck Feather", "Eagle Feather", "Egret Feather", "Goose Feather", "Hawk Feather", "Heron Feather", "Loon Feather", "Oriole Feather", "Owl Feather", "Parakeet Feather", "Parrot Feather", "Peccary Feather", "Pelican Feather", "Pheasant Feather", "Pig Feather", "Pigeon Feather", "Quail Feather", "Raven Feather", "Robin Feather", "Rooster Feather", "Seagull Feather", "Songbird Feather", "Sparrow Feather", "Spoonbill Plume", "Turkey Feather", "Vulture Feather", "Waxwing Feather", "Woodpecker Feather", "Bat Wing":
                                     Button {
                                         presentedPelt = pelts[4]
+                                    } label: {
+                                        HStack {
+                                            Image(systemName: "bag.fill.badge.plus")
+                                                .font(.footnote)
+                                            Text("\(loot)")
+                                                .font(.body)
+                                                .padding(.bottom, paddingAmount/10)
+                                                .foregroundColor(Color("AccentColor"))
+                                        }
+                                    }
+                                case "Flight Feather":
+                                    Button {
+                                        presentedPelt = pelts[5]
                                     } label: {
                                         HStack {
                                             Image(systemName: "bag.fill.badge.plus")

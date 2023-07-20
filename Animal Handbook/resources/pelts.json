@@ -1,2806 +1,2936 @@
-[
-    {
-       "id":"fd6017f3-f8cc-4f37-bc84-315ac608aecd",
-       "name":"Highest Quality Meat",
-       "description":"The best of four tiers of meat, this meat comes from the largest creatures in the game, such as Bears, Wolves, and Alligators",
-       "trapperItems":[
-          {
-             "id":"6c9431f4-ded9-4ace-9c8e-7323a65654d6",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          },
-          {
-             "id":"23fda77d-076f-4e7f-8d57-8c791bd2d038",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"cb55aae8-c6cd-4b44-aa7c-0b7ebff30af3",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"466c0a28-d095-4ff0-9ede-8778a7b4c76e",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"04a7ea9d-aa7e-40db-aa03-b64e0b73f300",
-       "name":"High Quality Meat",
-       "description":"High Quality Meat includes Exotic Bird Meat (Parrots, Pelicans), Mature Venison (Deer), Game Meat (Rabbits, Ducks), Succulent Fish (Salmon, Trout), Prime Beef (Cows, Bison), Tender Pork Loin (Javelina, Pigs)",
-       "trapperItems":[
-          {
-             "id":"96c4bad8-4e47-4509-ab08-20fdf0993919",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          },
-          {
-             "id":"f8f47f55-bfdd-4a0e-b680-5db36eddd248",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"df0cfd27-74ae-4724-b3d5-1648e15d683d",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"60f274de-56f5-4246-b150-1a6955cff7cb",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"b9314eab-af94-4d59-8e8e-e6bbc3abdccd",
-       "name":"Good Quality Meat",
-       "description":"Good quality meat includes Plump Bird Meat (Turkey, Chicken, Geese), Crustacean Meat (Shellfish), Gristly Mutton (Sheep, Goats), Flaky Fish (Perch, Bass)",
-       "trapperItems":[
-          {
-             "id":"d144b761-f7ef-4f9f-8064-2a9c5ac7c9d8",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          },
-          {
-             "id":"5e1d8dbf-be11-4593-ac53-f79b3602bd87",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"9f8c512c-97ef-4d16-91f1-8fcc2ec44e2f",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"124c1e67-4fa3-4626-9fcb-f3faa1e90674",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"6645f160-e121-4100-8629-f942ad532110",
-       "name":"Low Quality Meat",
-       "description":"Low Quality Meat includes Gritty Fish (Bluegill, etc), Gamey Birds (Small Birds), Stringy Meat (Rats, etc.), Herptile Meat (Reptiles)",
-       "trapperItems":[
-          {
-             "id":"149561f0-e874-4485-ab53-c26ced4b0e51",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          },
-          {
-             "id":"dd27195e-e87c-42fc-a1c0-cf3d260e1386",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"cb83d756-cac2-424a-afa2-07d64bb86c9a",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"f5cc5674-4db0-45f2-a63c-5d74e2ebb6ea",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"f7bf12ea-13cc-4114-9e36-a65c1f9e831b",
-       "name":"Bird Feather",
-       "description":"Bird Feathers can be sold for money.",
-       "trapperItems":[
-          {
-             "id":"f0e4c051-3054-4244-ae3c-005f2dabab1f",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          },
-          {
-             "id":"7a9d2673-07f6-435b-9522-7a1dcc510656",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"7dcc373e-b74a-4da0-b2db-5abc921de0fc",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"c8496bbb-d6c8-45d8-aa00-7e52e3001cb6",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"4c26d828-ac08-49b9-bcdb-424169a4e511",
-       "name":"Alligator Skin",
-       "description":"You can use the Alligator skin to craft the Alligator saddle at the trapper.",
-       "trapperItems":[
-          {
-             "id":"1dfcd8d0-3166-4c61-8b81-f4015e3d90f2",
-             "name":"Alligator Ranch Cutter Saddle",
-             "price":107.00,
-             "ingredients":[
-                "x1 Perfect Alligator Skin"
-             ]
-          },
-          {
-             "id":"239c3c87-4d86-48ff-9e68-39c86948712c",
-             "name":"Legendary Alligator Gambler's Hat",
-             "price":22.00,
-             "ingredients":[
-                "x1 Legendary Alligator Skin",
-                "x2 Perfect Snake Skin"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"efcd5d20-53a8-4139-b698-973c0d0e6dac",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"ea753132-572f-424a-8324-c142215924e9",
-             "name":"Alligator Skull for Arthur's Lodging",
-             "ingredients":[
-                "x1 Perfect Alligator Skin"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"80b4011e-9640-4879-98a5-03d3372db21b",
-       "name":"Alligator Tooth",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"8b1e54f2-cbb0-4f22-8426-2c34e92131c4",
-             "name":"",
-             "price":0,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"a3b42a67-0680-4a97-9c5c-eeb03304c6a1",
-             "name":"Alligator Tooth Talisman",
-             "price":40.00,
-             "ingredients":[
-                "x1 Legendary Alligator Tooth"
-             ],
-             "effect":"Lowers the drain speed of Dead Eye Core by 10%"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"d71b7646-50a5-4a60-b321-9ca1afeb1d5e",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"266ca72f-6ff5-4dda-9609-5690da84d7b0",
-       "name":"Armadillo Skin",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"5d5f53cc-144d-4154-b6b7-0fb0fa7324ed",
-             "name":"Billy Vest",
-             "price":32.00,
-             "ingredients":[
-                "x2 Perfect Armadillo Skin",
-                "x1 Perfect Goat Hide"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"8ec13cbc-5d50-4531-8604-3dbc640558f5",
-             "name":"",
-             "price":0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"d986d8c2-d9df-4398-af8c-0214effe92cc",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"4138234f-9d29-4872-960d-8248f84474d1",
-       "name":"Badger Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"00330bf2-dde8-4571-b6c7-547c7b8fb42e",
-             "name":"Badger Mountain Hat",
-             "price":26.00,
-             "ingredients":[
-                "x1 Perfect Badger Pelt"
-             ]
-          },
-          {
-             "id":"bd0a7b5c-1d26-45b4-bae0-ac63a4c7ccbc",
-             "name":"Badger Rifleman Gloves",
-             "price":10.00,
-             "ingredients":[
-                "x1 Perfect Badger Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"9aa0d62d-7eaa-475a-8503-2e0569b0fd06",
-             "name":"",
-             "price":0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"f7cc920c-5b54-48bf-b89d-b2b3ab4e3115",
-             "name":"Ingredients Satchel",
-             "ingredients":[
-                "x1 Perfect Badger Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Squirrel Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"241dc1d4-3d41-4a96-b585-b434063b5267",
-       "name":"Beaver Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"08bc567d-348b-4660-ba5a-5fd443d88d45",
-             "name":"Beaver Roping Saddle",
-             "price":96.00,
-             "ingredients":[
-                "x1 Perfect Beaver Pelt"
-             ]
-          },
-          {
-             "id":"43626909-e230-4366-82c1-03ab7857ba40",
-             "name":"Beaver Mountain Hat",
-             "price":25.00,
-             "ingredients":[
-                "x1 Perfect Beaver Pelt"
-             ]
-          },
-          {
-             "id":"259720c6-5e21-4a84-bbcc-5680c4e66299",
-             "name":"Country Vest",
-             "price":25.00,
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Buck Pelt"
-             ]
-          },
-          {
-             "id":"b774e556-8e1e-475a-96d8-cbe233a47b73",
-             "name":"Grenadier Hat",
-             "price":24.00,
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Muskrat Pelt"
-             ]
-          },
-          {
-             "id":"ad556f78-e588-4baa-be39-9d354e614345",
-             "name":"Legendary Beaver Flop Hat",
-             "price":22.00,
-             "ingredients":[
-                "x1 Legendary Beaver Pelt",
-                "x1 Legendary Boar Pelt",
-                "x1 Cardinal Feather"
-             ]
-          },
-          {
-             "id":"32a40826-7eb1-4225-8e94-22fe0b863729",
-             "name":"Beaver Hunting Jacket",
-             "price":21.00,
-             "ingredients":[
-                "x2 Perfect Beaver Pelt",
-                "x1 Perfect Cow Hide"
-             ]
-          },
-          {
-             "id":"8f047b2e-ddda-4329-8d77-6bd65ee5e739",
-             "name":"Raccoon Mountain Hat",
-             "price":21.00,
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Raccoon Pelt",
-                "x2 Hawk Feather"
-             ]
-          },
-          {
-             "id":"b4625244-587c-4441-81e6-f1cc32af1f61",
-             "name":"Beaver Drifter Hat",
-             "price":20.00,
-             "ingredients":[
-                "x2 Perfect Beaver Pelt "
-             ]
-          },
-          {
-             "id":"90c50b9b-345c-490a-920f-2b3c1f67d857",
-             "name":"Legendary Beaver Cavalry Gloves",
-             "price":18.00,
-             "ingredients":[
-                "x1 Legendary Beaver Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"8b99ed9d-ac78-4e91-81da-cb5153b75a02",
-             "name":"",
-             "price":0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"8e171553-35f3-447a-94d3-c721bcc4a1da",
-             "name":"Main Campfire Seat Cover",
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Muskrat Pelt",
-                "x1 Perfect Fox Pelt"
-             ]
-          },
-          {
-             "id":"31e9bb92-1a96-4559-913f-79712603f6a4",
-             "name":"Valuables Satchel",
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Rabbit Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"035e8587-a170-4bce-b695-cd1f557967fb",
-       "name":"Beaver Tooth",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"e2480f3a-02eb-4ecc-8884-07b374e18a76",
-             "name":"",
-             "price":107.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"ba3a3010-1227-4529-9fb2-9347f94709ac",
-             "name":"Beaver Tooth Trinket",
-             "price":18.25,
-             "ingredients":[
-                "Levendary Beaver Tooth"
-             ],
-             "effect":"Slows weapons degradation by 10%"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"abca9400-c59e-4d6d-b486-e69176dc8356",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"27344ac1-08f2-45d4-99bd-dfc53b7eda57",
-       "name":"Bison Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"504e5a99-e692-42c3-b0ec-191091b332fa",
-             "name":"Bison Gambler's Hat",
-             "price":18.00,
-             "ingredients":[
-                "x1 Perfect Bison Pelt",
-                "x4 Robin Feather",
-                "x4 Oriole Feather"
-             ]
-          },
-          {
-             "id":"b20fade2-3431-4eea-b1f1-ff1d0a561f56",
-             "name":"Plantation Slouch Hat",
-             "price":15.00,
-             "ingredients":[
-                "x1 Perfect Bison Pelt"
-             ]
-          },
-          {
-             "id":"9b4d14f8-9e1c-4ad6-b7d0-183f220ea771",
-             "name":"Legendary White Bison Hat",
-             "price":45.00,
-             "ingredients":[
-                "x1 Legendary White Bison Pelt"
-             ]
-          },
-          {
-             "id":"fc405a8e-c7ce-42eb-b24f-df2e0175bb4b",
-             "name":"Legendary Boar and Bison Fowlers",
-             "price":37.00,
-             "ingredients":[
-                "x1 Legendary Tatanka Bison Pelt",
-                "x1 Legendary Boar Pelt"
-             ]
-          },
-          {
-             "id":"fd095e53-5557-4f0d-8496-60c54ad0315b",
-             "name":"Legendary Bison Batwing Chaps",
-             "price":32.00,
-             "ingredients":[
-                "x1 Legendary Tatanka Bison Pelt"
-             ]
-          },
-          {
-             "id":"107cb7cf-009b-43ac-9bf1-e3c2a06b3d3f",
-             "name":"Legendary Bison Vest",
-             "price":30.00,
-             "ingredients":[
-                "x1 Legendary Tatanka Bison Pelt"
-             ]
-          },
-          {
-             "id":"caa2106f-9fb0-4b9a-98b6-fd3f1559713a",
-             "name":"Legendary White Bison Coat",
-             "price":29.00,
-             "ingredients":[
-                "x1 Legendary White Bison Pelt"
-             ]
-          },
-          {
-             "id":"51bbc4a4-7602-461d-875f-f8396c54cc3e",
-             "name":"Legendary Bear Coat",
-             "price":28.00,
-             "ingredients":[
-                "x1 Legendary Beaver Pelt",
-                "x1 Perfect Bison Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"20cfce15-fe36-4270-952f-b84c8ae7d108",
-             "name":"",
-             "price":0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"41ac5c40-0dae-4cff-94be-390fde099e50",
-             "name":"Fur Horse Blankets For Camp Entrance",
-             "ingredients":[
-                "x1 Perfect Bison Pelt",
-                "x2 Perfect Coyote Pelt"
-             ]
-          },
-          {
-             "id":"26ca1035-3a55-4f53-9e81-df7f6dfc9206",
-             "name":"Provisions Satchel",
-             "ingredients":[
-                "x1 Perfect Bison Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Raccoon Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"1e3bcba5-50d6-4648-966d-1c8708ab02d8",
-       "name":"Bison Horn",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"00ce2bb3-d6ff-4840-ab98-2eaa9b357016",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"fe2e71be-7176-4b3d-8821-6dd4fa573dad",
-             "name":"Bison Horn Talisman",
-             "price":38.50,
-             "ingredients":[
-                "x1 Legendary Bison Horn",
-                "x1 Abalone Shell Fragment",
-                "x1 Silver Earring"
-             ],
-             "effect":"Lowers the drain speed of Stamina Core by 10%"
-          },
-          {
-             "id":"b3eb2535-1a86-491d-b256-d3a2d9c614e1",
-             "name":"Tatanka Bison Horn Trinket",
-             "price":16.75,
-             "ingredients":[
-                "x1 Legendary Tatanka Bison Horn"
-             ],
-             "effect":"Decreases the amount of damage taken in melee combat by 10%"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"39a8d5ab-06ab-48cf-b2c9-8f8e65874c0d",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"fc2e2460-a119-46d6-924c-33130ba6b637",
-       "name":"Bear Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"f72ef4fb-5b8f-4374-8b27-43ae3f413f2a",
-             "name":"Bear Fringed Shotgun Chaps",
-             "price":38.00,
-             "ingredients":[
-                "x1 Perfect Black Bear Pelt"
-             ]
-          },
-          {
-             "id":"3897e1a0-e904-4b58-9e22-27318c1b2721",
-             "name":"Bear Grenadier Hat",
-             "price":24.00,
-             "ingredients":[
-                "x1 Perfect Black Bear Pelt"
-             ]
-          },
-          {
-             "id":"58a2a9dc-2425-4434-9874-bc144ac7e29e",
-             "name":"Cougar Cutaway Coat",
-             "price":39.00,
-             "ingredients":[
-                "x1 Perfect Black Bear Pelt",
-                "x2 Perfect Cougar Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"334ebe4d-5939-49ca-9154-5a2f7fab2391",
-             "name":"",
-             "price":0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"278f3d82-89b3-4f77-af72-434280df152d",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"c5401daf-72e2-4893-baf4-2c36fd9f2aba",
-       "name":"Boar Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"010556bc-1a96-44ed-b695-c43a8f2e5015",
-             "name":"Boar Mother Hubbard Saddle",
-             "price":90.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt"
-             ]
-          },
-          {
-             "id":"ae6b1c84-b29e-49df-a0ea-86f9fa695e33",
-             "name":"Boar and Bull Fowler Boots",
-             "price":31.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Perfect Ox Hide"
-             ]
-          },
-          {
-             "id":"42344440-a100-4a27-b84c-69d587e728a2",
-             "name":"Boar Fringed Shotgun Chaps",
-             "price":25.00,
-             "ingredients":[
-                "x2 Perfect Boar Pelt"
-             ]
-          },
-          {
-             "id":"cc6b1f29-0e47-418b-bd3c-f1452c4cc2e4",
-             "name":"Bull Fowler Boots",
-             "price":29.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Perfect Bull Hide"
-             ]
-          },
-          {
-             "id":"b9d3e5c5-09fd-4d9f-bf6f-8d442353b487",
-             "name":"Snake Skin Cavalry Gloves",
-             "price":26.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Perfect Snake Skin"
-             ]
-          },
-          {
-             "id":"4c42f6a5-196f-42de-bec0-0126caa416af",
-             "name":"Boar Riding Gloves",
-             "price":15.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x2 Perfect Rabbit Pelt"
-             ]
-          },
-          {
-             "id":"9590a3a1-bde2-4e64-b995-904fb67acde4",
-             "name":"Huntsman Accessory",
-             "price":10.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Hawk Feather",
-                "x2 Quail Feather"
-             ]
-          },
-          {
-             "id":"341f0d49-4caf-4e07-977a-4189a0d322e4",
-             "name":"Legendary Boar and Bison Fowlers",
-             "price":37.00,
-             "ingredients":[
-                "x1 Legendary Tatanka Bison Pelt",
-                "x1 Legendary Boar Pelt"
-             ]
-          },
-          {
-             "id":"bb1a1e7f-1641-4876-916a-025c351278fe",
-             "name":"Legendary Beaver Flop Hat",
-             "price":22.00,
-             "ingredients":[
-                "x1 Legendary Beaver Pelt",
-                "x1 Legendary Boar Pelt",
-                "x1 Cardinal Feather"
-             ]
-          },
-          {
-             "id":"640f8e79-4969-44d6-96c1-081e9d13c6c7",
-             "name":"Legendary Cougar Riding Gloves",
-             "price":20.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Legendary Cougar Pelt"
-             ]
-          },
-          {
-             "id":"6d68a42a-83b7-4423-8fc8-e69f14f53600",
-             "name":"Legendary Ram Rifleman Gloves",
-             "price":12.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Legendary Ram Hide"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"ccee738c-73a3-4b0d-a07e-fb2b1eb9379c",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"9feb22df-09ea-4e94-8145-8fb944910b52",
-             "name":"Boar Skin Table Cover for Arthur's Lodging",
-             "ingredients":[
-                "x1 Perfect Boar Pelt"
-             ]
-          },
-          {
-             "id":"5a5b27e6-6ef0-4a24-8ecb-dfd611a864f7",
-             "name":"Boar Skin Rug for John's Lodging",
-             "ingredients":[
-                "x4 Perfect Boar Pelt"
-             ]
-          },
-          {
-             "id":"a05caf39-f543-45ca-b702-2996dbed846e",
-             "name":"Materials Satchel",
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Iguana Skin"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"0d790e13-95b3-48ec-84cf-e56cd27554ba",
-       "name":"Boar Tusk",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"798ab859-4fa1-4079-8515-c885423a625e",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"e24733ff-1add-4a7c-8805-78853cac25f9",
-             "name":"Boar Tusk Talisman",
-             "price":31.00,
-             "ingredients":[
-                "x1 Legendary Boar Tusk",
-                "x1 Gold Earring",
-                "x1 Cobalt Petrified Wood"
-             ],
-             "effect":"Lowers player and horse's health core drain speed by 10%"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"9f0844db-751e-4845-aadf-c5acbfc73f97",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"e06e1be4-a5df-44ae-9ebc-6962e280416b",
-       "name":"Buck Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"c67fdea8-ed5b-4356-8e0f-af0adc843358",
-             "name":"Buck Riding Gloves",
-             "price":5.00,
-             "ingredients":[
-                "x1 Perfect Buck Pelt"
-             ]
-          },
-          {
-             "id":"b8e4a8e8-66ab-486f-bd9b-5576a2ae2cd6",
-             "name":"Country Vest",
-             "price":25.00,
-             "ingredients":[
-                "x1 Perfect Buck Pelt",
-                "x1 Perfect Beaver Pelt"
-             ]
-          },
-          {
-             "id":"ef2aa2c2-df24-4f82-8bb6-d41cbfddf9f4",
-             "name":"Moccasins",
-             "price":17.00,
-             "ingredients":[
-                "x1 Perfect Buck Pelt"
-             ]
-          },
-          {
-             "id":"be1a21f0-811b-46f3-9572-f68d67e637f2",
-             "name":"Two Toned Moccasins",
-             "price":15.00,
-             "ingredients":[
-                "x1 Perfect Buck Pelt"
-             ]
-          },
-          {
-             "id":"b7007e22-6dc6-4398-8422-ba45a652fbf4",
-             "name":"Legendary Buck and Fox Range Gloves",
-             "price":28.00,
-             "ingredients":[
-                "x1 Legendary Buck Pelt",
-                "x1 Legendary Fox Pelt"
-             ]
-          },
-          {
-             "id":"49e3193e-fffe-41fe-946f-55855e2cb97e",
-             "name":"Legendary Buck Vest",
-             "price":26.00,
-             "ingredients":[
-                "x1 Legendary Buck Pelt",
-                "x1 Perfect Ram Hide"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"766f6c76-49e8-4b27-8076-dc0cd2298bac",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"38cd7b49-1f37-4873-b7c3-3feb5aac9301",
-             "name":"Hanging Bones for Scout Campfire",
-             "ingredients":[
-                "x1 Buck Antlers"
-             ]
-          },
-          {
-             "id":"a66a8123-e345-4e62-a0c5-8e680eb8f237",
-             "name":"Tonics Satchel",
-             "ingredients":[
-                "x1 Perfect Buck Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Elk Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"05e39607-3524-4c42-a7e9-d72b2584e526",
-       "name":"Buck Carcass",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"fa29b0c5-3442-4383-acf7-ce94962274db",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          },
-          {
-             "id":"ca337db3-a079-417b-9080-04d782e251fa",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"da3f2ee1-69dd-4024-bd6f-f40de8bc116b",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"40e02ea2-22a2-4e52-b9d4-5a75c0c5a502",
-             "name":"Buck Skull for Camp Entrance",
-             "ingredients":[
-                "x1 Perfect Buck Carcass"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"db2eecda-0033-455a-8c3e-853049c68b30",
-       "name":"Buck Antler",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"b0e67ffd-f765-4e3e-b305-6f7f9fc9002e",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          },
-          {
-             "id":"f3475c9c-bbdf-4724-a137-bde20352be8f",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"bfbbaa32-9cf9-4524-8f8f-066b043b5bcf",
-             "name":"Buck Antler Trinket",
-             "price":22.00,
-             "ingredients":[
-                "x1 Legendary Buck Antler"
-             ],
-             "effect":"Raises chances of higher quality parts from skinning animals"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"11295403-54f1-40ea-a47c-cdba32e12915",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"cb8762e9-c9be-4929-9304-742b0929ea1c",
-       "name":"Bull Hide",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"121b0004-7531-4059-b40d-9ee7eba44885",
-             "name":"Bull Fowler Boots",
-             "price":29.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Perfect Bull Hide"
-             ]
-          },
-          {
-             "id":"794c96c4-ff14-4860-a20e-5ba898e11cef",
-             "name":"Bull Fringed Shotgun Chaps",
-             "price":18.00,
-             "ingredients":[
-                "x1 Perfect Bull Hide"
-             ]
-          },
-          {
-             "id":"797e1113-9498-4d7d-b978-1e97056d5d65",
-             "name":"Legendary Bear Roper",
-             "price":34.00,
-             "ingredients":[
-                "x1 Perfect Bull Hide",
-                "x1 Legendary Bear Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"77b064bd-ab57-45bc-9502-efa88bdf0981",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"dce1560d-39bd-4ef6-b1b5-9efd3651edb1",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"e05589af-271d-4e0c-8666-c59575d624ba",
-       "name":"Cougar Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"5fd94f3a-e09e-4efa-96fd-284b22c5842d",
-             "name":"Cougar Cutaway Coat",
-             "price":39.00,
-             "ingredients":[
-                "x1 Perfect Black Bear Pelt",
-                "x2 Perfect Cougar Pelt"
-             ]
-          },
-          {
-             "id":"2e37c76d-825f-4762-ad79-6a86cfa682b6",
-             "name":"Rustic Vest",
-             "price":23.00,
-             "ingredients":[
-                "x2 Perfect Cougar Pelt",
-                "x1 Perfect Bear Pelt"
-             ]
-          },
-          {
-             "id":"decaf953-cead-4623-9471-247e4edb406c",
-             "name":"Cougar McClelland Saddle",
-             "price":110.00,
-             "ingredients":[
-                "x1 Perfect Cougar Pelt"
-             ]
-          },
-          {
-             "id":"a1e342bc-102b-4531-8886-2e383d98c900",
-             "name":"Legendary Cougar / Wolf Vest",
-             "price":42.00,
-             "ingredients":[
-                "x1 Legendary Cougar Pelt",
-                "x1 Legendary Wolf Pelt"
-             ]
-          },
-          {
-             "id":"c685117f-0865-4b83-85f9-3055ebdd6ea4",
-             "name":"Legendary Cougar Riding Gloves",
-             "price":20.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Legendary Cougar Pelt"
-             ]
-          },
-          {
-             "id":"639896a4-1c67-44b6-89b0-5eff11d70ce4",
-             "name":"Legendary Cougar Flop Hat",
-             "price":0.00,
-             "ingredients":[
-                "x1 Legendary Cougar Pelt",
-                "x2 Turkey Feather"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"5c71a42d-6184-4e13-aba0-65a9261996be",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"58b887a6-0db0-45de-8fed-37416dfa0ed2",
-             "name":"Cougar Pelt Covered Chest for Arthur's Lodging",
-             "ingredients":[
-                "x2 Perfect Cougar Pelt"
-             ]
-          },
-          {
-             "id":"dc8b06a9-83d5-4b85-b1b2-9d60426d8493",
-             "name":"Legend of the East Satchel",
-             "ingredients":[
-                "x1 Perfect Cougar Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Wolf Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"2840ad6e-3875-49f9-af5d-badfbd4f385e",
-       "name":"Cougar Fang",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"c799b977-b2f1-47b2-8f91-4795259e3093",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          },
-          {
-             "id":"edef5671-75c9-4238-9cec-843d69275b02",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"88dce254-7e89-45cb-8f7f-94a595de893e",
-             "name":"Cougar's Paw Trinket",
-             "price":20.50,
-             "ingredients":[
-                "x1 Legendary Cougar Fang"
-             ],
-             "effect":"Raises Stamina XP gain by 10%"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"7fba231c-71cc-49e5-81a4-377ab167f1a4",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"6ab2535f-6d1c-42a0-9849-61c9388c65d7",
-       "name":"Cow Hide",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"a2f236bf-7f32-4006-9983-8c09d355c60e",
-             "name":"Workman's Pride Boots",
-             "price":28.00,
-             "ingredients":[
-                "x1 Perfect Cow Hide",
-                "x1 Perfect Goat Hide"
-             ]
-          },
-          {
-             "id":"da2619d4-d2bb-420d-bd8d-c0b7e978fc95",
-             "name":"Beaver Hunting Jacket",
-             "price":21.00,
-             "ingredients":[
-                "x2 Perfect Beaver Pelt",
-                "x1 Perfect Cow Hide"
-             ]
-          },
-          {
-             "id":"da1b2001-e9e2-4750-8de7-919cd8043f8d",
-             "name":"Principal Vest",
-             "price":18.00,
-             "ingredients":[
-                "x1 Perfect Cow Hide",
-                "x1 Perfect Deer Pelt"
-             ]
-          },
-          {
-             "id":"ca2bfb32-b7b6-412f-860e-07c945e4e2dc",
-             "name":"Iguana Big Valley Hat",
-             "price":14.00,
-             "ingredients":[
-                "x1 Perfect Cow Hide",
-                "x1 Perfect Iguana Skin"
-             ]
-          },
-          {
-             "id":"41f17cef-4005-402a-a828-ae4c13b9a162",
-             "name":"Legendary Moose Moccasins",
-             "price":22.00,
-             "ingredients":[
-                "x1 Perfect Cow Hide",
-                "x1 Legendary Moose Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"c731c16b-9672-485c-88f9-ab337ec31c69",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"07892e25-b7c5-4083-a1c4-5ff2a16fabbf",
-             "name":"Cow Hide Ground Cover for Main Campfire",
-             "ingredients":[
-                "x1 Perfect Cow Hide"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"71aeac71-9240-4492-9b5b-907bc7b155d1",
-       "name":"Coyote Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"85cc2713-26aa-41ae-8936-852c7d15ca72",
-             "name":"Coyote Scout Jacket",
-             "price":20.00,
-             "ingredients":[
-                "x1 Perfect Coyote Pelt",
-                "x1 Perfect Ox Hide"
-             ]
-          },
-          {
-             "id":"07fbe038-65bf-4b44-9eae-dd946997e0b0",
-             "name":"Coyote Gambler's Hat",
-             "price":16.00,
-             "ingredients":[
-                "x2 Perfect Coyote Pelt"
-             ]
-          },
-          {
-             "id":"f600e958-0514-491e-93da-c09215dfb1e4",
-             "name":"Legendary Coyote Mountain Hat",
-             "price":23.00,
-             "ingredients":[
-                "x1 Legendary Coyote Pelt",
-                "x2 Eagle Feather"
-             ]
-          },
-          {
-             "id":"7d6be7ad-74ef-4f76-9bd7-4fc2f939b659",
-             "name":"Legendary Coyote Half Chaps",
-             "price":20.00,
-             "ingredients":[
-                "x1 Legendary Coyote Pelt",
-                "x2 Perfect Fox Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"7904f63e-dc50-4cea-876e-c4bc55882dc6",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"29afd093-285c-4ae8-8481-f35b4730f41e",
-             "name":"Fur Horse Blankets For Camp Entrance",
-             "ingredients":[
-                "x1 Perfect Bison Pelt",
-                "x2 Perfect Coyote Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"6e84dd81-f9f0-47b5-8931-c2b67af45ea4",
-       "name":"Coyote Fang",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"3eb4db42-c9e8-44e5-90ac-90826ace82cd",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"262c6c10-0789-428d-bc31-49a480eb999e",
-             "name":"Coyote Fang Trinket",
-             "price":21.50,
-             "ingredients":[
-                "Legendary Coyote Fang"
-             ],
-             "effect":"Raises Dead Eye XP gain by 10%"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"4f62bffd-ab1d-4f6d-b6af-370114c0a6f0",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"0d013958-df3f-4c12-b7fd-1dbdc8e5dfd5",
-       "name":"Deer Hide",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"5c4b91cc-810b-420e-8639-036a396fb5cb",
-             "name":"Deer Pelt Half Chaps",
-             "price":9.00,
-             "ingredients":[
-                "x1 Perfect Deer Pelt"
-             ]
-          },
-          {
-             "id":"fd3aa948-9aac-4dfd-9d1f-7b9c8ef68d44",
-             "name":"Huntsman Vest",
-             "price":25.00,
-             "ingredients":[
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Sheep Hide"
-             ]
-          },
-          {
-             "id":"fb937840-bfe6-4540-82f8-4d0bb77a3588",
-             "name":"Deer Cavalry Hat",
-             "price":20.00,
-             "ingredients":[
-                "x1 Perfect Deer Pelt",
-                "x10 Raven Feather"
-             ]
-          },
-          {
-             "id":"23daad1a-d2da-4a2f-af58-8d1eaa73b606",
-             "name":"Principal Vest",
-             "price":18.00,
-             "ingredients":[
-                "x1 Perfect Cow Hide",
-                "x1 Perfect Deer Pelt"
-             ]
-          },
-          {
-             "id":"27109086-305b-4e09-8d66-f47ba004327e",
-             "name":"Batwing Chaps",
-             "price":12.00,
-             "ingredients":[
-                "x1 Perfect Deer Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"ef5f2165-5b2c-402d-84ef-e133796b4f62",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"066ee19e-23a5-490c-8425-db0ad122fe7e",
-             "name":"Tonics Satchel",
-             "ingredients":[
-                "x1 Perfect Buck Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Elk Pelt"
-             ]
-          },
-          {
-             "id":"5dcdb2f7-6196-479e-a5eb-b5ebcaa6c8b8",
-             "name":"Ingredients Satchel",
-             "ingredients":[
-                "x1 Perfect Badger Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Squirrel Pelt"
-             ]
-          },
-          {
-             "id":"a663ca96-3efc-4baf-bea1-b8585aae4b5a",
-             "name":"Kit Satchel",
-             "ingredients":[
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Elk Pelt",
-                "x1 Perfect Panther Pelt"
-             ]
-          },
-          {
-             "id":"d6c1904c-07a9-4421-acf7-8e022d2ee461",
-             "name":"Provisions Satchel",
-             "ingredients":[
-                "x1 Perfect Bison Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Raccoon Pelt"
-             ]
-          },
-          {
-             "id":"58fd193d-00a6-404a-93df-b665d939ee45",
-             "name":"Materials Satchel",
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Iguana Skin"
-             ]
-          },
-          {
-             "id":"d500dca7-1c9a-4e3a-a39d-4bf5ec020f66",
-             "name":"Valuables Satchel",
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Rabbit Pelt"
-             ]
-          },
-          {
-             "id":"fe940d2c-ef4c-4be3-970c-eb5dc72ccea6",
-             "name":"Legend of the East Satchel",
-             "ingredients":[
-                "x1 Perfect Cougar Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Wolf Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"78516f57-dc3e-46b4-aa14-327a478a43ff",
-       "name":"Elk Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"16b02ba1-79d9-4f91-9f78-b83e4efc5ac2",
-             "name":"Elk Fringed Shotgun Chaps",
-             "price":21.00,
-             "ingredients":[
-                "x1 Perfectt Elk Pelt"
-             ]
-          },
-          {
-             "id":"8c8088be-cc6a-447c-8978-a10bf290acc5",
-             "name":"Gila Monster Gambler's Hat",
-             "price":16.00,
-             "ingredients":[
-                "x1 Perfect Elk Pelt",
-                "x1 Perfect Gila Monster Skin"
-             ]
-          },
-          {
-             "id":"5440269a-903b-4fde-b8fa-c99b925142fe",
-             "name":"Elk Riding Gloves",
-             "price":12.00,
-             "ingredients":[
-                "x1 Perfect Elk Pelt"
-             ]
-          },
-          {
-             "id":"bdbdb02c-c272-4561-852e-2f8a1f30577a",
-             "name":"Elk Flop Hat",
-             "price":12.00,
-             "ingredients":[
-                "x1 Perfect Elk Pelt"
-             ]
-          },
-          {
-             "id":"fa3f77bb-1f42-4aba-acd1-dbb966a21689",
-             "name":"Legendary Elk Moccasins",
-             "price":30.00,
-             "ingredients":[
-                "x1 Legendary Elk Pelt",
-                "x1 Perfect Goat Hide"
-             ]
-          },
-          {
-             "id":"893ddfd5-5634-4377-9c13-95be46f462c2",
-             "name":"Legendary Elk Half Chaps",
-             "price":16.00,
-             "ingredients":[
-                "x1 Legendary Elk Pelt",
-                "x1 Perfect Sheep Hide"
-             ]
-          },
-          {
-             "id":"b6cfca24-f760-4d1c-a986-aeed615d1676",
-             "name":"Legendary Elk Range Gloves",
-             "price":13.00,
-             "ingredients":[
-                "x1 Legendary Elk Pelt"
-             ]
-          },
-          {
-             "id":"43a96007-1acd-4a6b-b116-ff7ea6e7d4fc",
-             "name":"Legendary Fox Moccasins",
-             "price":40.00,
-             "ingredients":[
-                "x1 Perfect Elk Pelt",
-                "x1 Legendary Fox Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"fafd20e2-ada8-49c4-a272-a88fc8d6fdb7",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"7a606ee5-e348-467f-80e8-4a602be37039",
-             "name":"Tonics Satchel",
-             "ingredients":[
-                "x1 Perfect Buck Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Elk Pelt"
-             ]
-          },
-          {
-             "id":"8e2f3e63-4d9e-477e-9903-de7957d26e09",
-             "name":"Kit Satchel",
-             "ingredients":[
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Elk Pelt",
-                "x1 Perfect Panther Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"400a2037-db6a-4556-945c-09be903df14e",
-       "name":"Elk Antlers",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"17496e85-1cd2-4756-b25c-5e54210a9bd9",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"4902ae2a-07b3-401e-8983-9363f8ab0965",
-             "name":"Elk Antler Trinket",
-             "price":22.75,
-             "ingredients":[
-                "x1 Legendary Elk Antler"
-             ],
-             "effect":"Increases money gained from looting by 10%"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"12d17319-33fc-43be-96fa-44197872e94d",
-             "name":"Elk Antlers for Scout Campfire",
-             "ingredients":[
-                "x1 Elk Antler"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"e397dc58-fd5f-42ae-aee4-8b013e67cf63",
-       "name":"Fox Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"5a70339d-0a1b-4fd3-97f6-74ef62885267",
-             "name":"Fox Mountain Hat",
-             "price":30.00,
-             "ingredients":[
-                "x1 Perfect Fox Pelt"
-             ]
-          },
-          {
-             "id":"88111cc6-aac5-477e-985f-c739331b65cf",
-             "name":"Legendary Fox Moccasins",
-             "price":40.00,
-             "ingredients":[
-                "x1 Perfect Elk Pelt",
-                "x1 Legendary Fox Pelt"
-             ]
-          },
-          {
-             "id":"a2bd50a8-a802-4332-bd16-d5e2c6a810e6",
-             "name":"Legendary Buck and Fox Range Gloves",
-             "price":28.00,
-             "ingredients":[
-                "x1 Legendary Buck Pelt",
-                "x1 Legendary Fox Pelt"
-             ]
-          },
-          {
-             "id":"1d8cc2fd-a32d-4e69-b32f-cf21fe13938c",
-             "name":"Legendary Coyote Half Chaps",
-             "price":20.00,
-             "ingredients":[
-                "x1 Legendary Coyote Pelt",
-                "x2 Perfect Fox Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"e5054e62-1aba-4803-b44a-4c895ec913e1",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"3c269be0-1129-46ac-b8f7-243bf4b5d1b5",
-             "name":"Main Campfire Seat Cover",
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Muskrat Pelt",
-                "x1 Perfect Fox Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"403fc708-8cd0-4896-aff9-d8c8bb0ed8a1",
-       "name":"Fox Claw",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"3c58a74a-72df-453f-b9cc-a02b27fd5665",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"dff27842-6a32-4fab-a08b-fe1a64321daf",
-             "name":"Fox Claw Trinket",
-             "price":23.50,
-             "ingredients":[
-                "x1 Legendary Fox Claw"
-             ],
-             "effect":"Increases Eagle Eye duration by five seconds"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"88f29572-c250-4f85-b1bf-fcd3fc9b124b",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"77e771af-c857-4a9a-bade-26ab06c89a20",
-       "name":"Gila Monster Skin",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"4e64fd09-c6ff-44eb-ac67-20143dcadc19",
-             "name":"Gila Monster Gambler's Hat",
-             "price":16.00,
-             "ingredients":[
-                "x1 Perfect Gila Monster Skin",
-                "x1 Perfect Elk Pelt"
-             ]
-          },
-          {
-             "id":"b24fc73d-13e7-4ac6-925e-d0ad78bf03d2",
-             "name":"Legendary Panther Range Gloves",
-             "price":30.00,
-             "ingredients":[
-                "x1 Perfect Gila Monster Skin",
-                "x1 Legendary Panther Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"0c03d9ed-db84-4bd4-abcc-04ce91db1cf0",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"9156bb02-123a-4be2-b8ed-513717521e8c",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"51a15362-be71-4c5d-aa0b-40d92270a7d7",
-       "name":"Goat Hide",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"c7a4c80a-0117-4094-9b02-87fcd279afcc",
-             "name":"Billy Vest",
-             "price":32.00,
-             "ingredients":[
-                "x2 Perfect Armadillo Skin",
-                "x1 Perfect Goat Hide"
-             ]
-          },
-          {
-             "id":"dc65b4b3-c6e0-4b44-a082-776a310d8e89",
-             "name":"Workman's Pride Boots",
-             "price":28.00,
-             "ingredients":[
-                "x1 Perfect Goat Hide",
-                "x1 Perfect Cow Hide"
-             ]
-          },
-          {
-             "id":"f8bac359-8b84-4c6a-955f-b391563f1478",
-             "name":"No-Man's Vest",
-             "price":27.00,
-             "ingredients":[
-                "x1 Perfect Goat Hide",
-                "x1 Perfect Panther Pelt"
-             ]
-          },
-          {
-             "id":"85a8e278-6ec8-4de7-b62f-8e6238c1e44f",
-             "name":"Goat Flop Hat",
-             "price":12.00,
-             "ingredients":[
-                "x1 Perfect Goat Hide",
-                "x1 Perfect Pronghorn Hide"
-             ]
-          },
-          {
-             "id":"ab438e52-469f-4022-9f95-edf6688cb9ec",
-             "name":"Rat Infantry Hardee Hat",
-             "price":17.00,
-             "ingredients":[
-                "x1 Perfect Goat Hide",
-                "x6 Perfect Rat Pelt"
-             ]
-          },
-          {
-             "id":"a9b8e540-0651-49e8-9406-f821c8b5c075",
-             "name":"Legendary Wolf Batwing Chaps",
-             "price":34.00,
-             "ingredients":[
-                "x1 Perfect Goat Hide",
-                "x1 Legendary Wolf Pelt"
-             ]
-          },
-          {
-             "id":"54c20533-7d0b-4902-b444-327cb37154cd",
-             "name":"Legendary Elk Moccasins",
-             "price":30.00,
-             "ingredients":[
-                "x1 Legendary Elk Pelt",
-                "x1 Perfect Goat Hide"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"6c16c3c7-d8fb-44bb-86aa-d21398bc6a29",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"b8a0e65c-4ea9-4627-aac1-7d90c8d37382",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"c6733186-c843-4b37-b4bb-6a5d9707118e",
-       "name":"Iguana Skin",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"cb1f0893-4518-49c2-b663-b846b4992c12",
-             "name":"Iguana Range Gloves",
-             "price":27.00,
-             "ingredients":[
-                "x2 Perfect Iguana Skin",
-                "x1 Perfect Pig Hide (Collared Peccary)"
-             ]
-          },
-          {
-             "id":"ab8de7f2-66dc-42b0-880b-603157c872ed",
-             "name":"Iguana Big Valley Hat",
-             "price":14.00,
-             "ingredients":[
-                "x1 Perfect Cow Hide",
-                "x1 Perfect Iguana Skin"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"a447e5ee-75b4-4e10-aa27-a7227d848c03",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"ff3ca80d-97aa-43a1-9ba4-0dfda97e1171",
-             "name":"Materials Satchel",
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Iguana Skin"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"51af67b1-484c-4d5c-b07e-b6357c502a6e",
-       "name":"Moose Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"15f95e87-972d-420f-809e-f80f96b8fc1d",
-             "name":"Moose Range Gloves",
-             "price":22.00,
-             "ingredients":[
-                "x1 Perfect Moose Pelt"
-             ]
-          },
-          {
-             "id":"0b282c6e-b45b-4be6-ab39-f7df4ccf39d1",
-             "name":"Moose Batwing Chaps",
-             "price":10.00,
-             "ingredients":[
-                "x1 Perfect Moose Pelt"
-             ]
-          },
-          {
-             "id":"5efa17eb-e393-43aa-acf3-bf07fb6e5b35",
-             "name":"Moose Half Chaps",
-             "price":10.00,
-             "ingredients":[
-                "x1 Perfect Moose Pelt"
-             ]
-          },
-          {
-             "id":"26830b34-2989-4124-b131-447f68ad8e70",
-             "name":"Legendary Moose Hunting Jacket",
-             "price":24.00,
-             "ingredients":[
-                "x1 Legendary Moose Pelt",
-                "x1 Perfect Wolf Pelt"
-             ]
-          },
-          {
-             "id":"64c8d7fd-f813-496c-afbe-2b1a14bbdcf9",
-             "name":"Legendary Moose Moccasins",
-             "price":22.00,
-             "ingredients":[
-                "x1 Perfect Cow Hide",
-                "x1 Legendary Moose Pelt"
-             ]
-          },
-          {
-             "id":"3cbfe72e-4a9d-4331-8dfc-785e1e58647c",
-             "name":"Legendary Pronghorn Coat",
-             "price":35.00,
-             "ingredients":[
-                "x1 Perfect Moose Pelt",
-                "x1 Legendary Pronghorn Hide"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"168e3150-69f0-4932-8230-f32c7f3c7d5f",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"142f4dce-e216-4156-8827-5be44a22df0c",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"1bd4cd12-6ccd-4471-8239-0671e7583214",
-       "name":"Moose Antler",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"809c66a6-d3c8-44da-93c1-759c5c65dd82",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"e933abb5-1273-4e77-a55d-67a2a26969d7",
-             "name":"Moose Antler Trinket",
-             "price":19.00,
-             "ingredients":[
-                "x1 Legendary Moose Antler"
-             ],
-             "effect":"Raises health XP gain by 10%"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"839fd064-09c7-497e-8282-33395918551b",
-             "name":"Moose Antler for Main Campfire",
-             "ingredients":[
-                "x1 Moose Antlers"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"4d77d640-533e-4660-89b5-697c6a2d1dd7",
-       "name":"Muskrat Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"7c8a653e-566b-4dbb-8af1-a9846e7cd460",
-             "name":"Muskrat Half Chaps",
-             "price":5.00,
-             "ingredients":[
-                "x2 Perfect Muskrat Pelt"
-             ]
-          },
-          {
-             "id":"c1de95a2-d981-4d07-8364-789604e575f3",
-             "name":"Winter Cavalry Gloves",
-             "price":25.00,
-             "ingredients":[
-                "x2 Perfect Muskrat Pelt",
-                "x1 Perfect Rabbit Pelt"
-             ]
-          },
-          {
-             "id":"37bba16f-7266-43ce-a6f6-6c5d8bc102e9",
-             "name":"Grenadier Hat",
-             "price":24.00,
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Muskrat Pelt"
-             ]
-          },
-          {
-             "id":"62e841ce-747e-4c10-a1f1-3f51cf3513bb",
-             "name":"Muskrat Cavalry Hat",
-             "price":15.00,
-             "ingredients":[
-                "x1 Perfect Muskrat Pelt",
-                "x4 Perfect Rabbit Pelt"
-             ]
-          },
-          {
-             "id":"264c0146-3dc5-43f1-be93-54cdee622a7d",
-             "name":"Legendary Pronghorn Range Gloves",
-             "price":17.00,
-             "ingredients":[
-                "x1 Perfect Muskrat Pelt",
-                "x1 Legendary Pronghorn Hide"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"ce02e4de-abde-42c4-a671-1ee652fec836",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"24246cbc-e2ef-4b02-b949-14a00a0dd5d5",
-             "name":"Main Campfire Seat Cover",
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Muskrat Pelt",
-                "x1 Perfect Fox Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"e46d41ec-7f44-4cbd-be5b-51865cb5a61c",
-       "name":"Opossum Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"77914fb8-824a-4b0f-98ef-daf0c02df361",
-             "name":"Pronghorn Flop Hat",
-             "price":12.00,
-             "ingredients":[
-                "x4 Perfect Opossum Pelt",
-                "x1 Perfect Pronghorn Hide"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"3c15603f-0b9e-44c3-9795-efc8caa75017",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"3070d77b-ef09-4144-9899-acefe98da042",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"2df3b8f2-b248-4399-ba84-74e2623da398",
-       "name":"Ox Hide",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"2d93b5ca-ae7e-4f50-8171-fc1c61cf85ec",
-             "name":"Boar and Bull Fowler Boots",
-             "price":31.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x1 Perfect Ox Hide"
-             ]
-          },
-          {
-             "id":"b5839f53-11ed-425e-a882-65429f979ee2",
-             "name":"Coyote Scout Jacket",
-             "price":20.00,
-             "ingredients":[
-                "x1 Perfect Ox Hide",
-                "x1 Perfect Coyote Pelt"
-             ]
-          },
-          {
-             "id":"baeef47d-18ef-4f8c-9f9a-e1120f227561",
-             "name":"Ox Fringed Shotgun Chaps",
-             "price":15.00,
-             "ingredients":[
-                "x1 Perfect Ox Hide"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"f01b4fa7-014a-498f-9923-78e29fed1f2f",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"b79dfa64-9b30-4c96-8b52-e65f6adc4189",
-             "name":"Ox Hide Rug For Arthur's Lodging",
-             "ingredients":[
-                "x2 Perfect Ox Hide"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"46151298-dab7-403d-b917-d4700e4b3ebd",
-       "name":"Panther Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"84fb02aa-a6a0-400d-8002-698545b2b84a",
-             "name":"Wilderness Vest",
-             "price":28.00,
-             "ingredients":[
-                "x1 Perfect Wolf Pelt",
-                "x1 Perfect Panther Pelt"
-             ]
-          },
-          {
-             "id":"1bceb281-cf8d-403b-967a-57cfacfa0600",
-             "name":"No-Man's Vest",
-             "price":27.00,
-             "ingredients":[
-                "x1 Perfect Goat Hide",
-                "x1 Perfect Panther Pelt"
-             ]
-          },
-          {
-             "id":"ad66b1bf-8094-4943-8abe-b176e413c66b",
-             "name":"Panther Trail Saddle",
-             "price":102.00,
-             "ingredients":[
-                "x1 Perfect Panther Pelt"
-             ]
-          },
-          {
-             "id":"495278dc-7a46-4b1a-beb7-6f8148b4e2d4",
-             "name":"Legendary Panther Cloak",
-             "price":45.00,
-             "ingredients":[
-                "x1 Legendary Panther Pelt"
-             ]
-          },
-          {
-             "id":"23131972-8097-4561-9c12-2f8de9823590",
-             "name":"Legendary Panther Range Gloves",
-             "price":30.00,
-             "ingredients":[
-                "x1 Perfect Gila Monster Skin",
-                "x1 Legendary Panther Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"48ffb07f-fd50-4f8b-b889-53c6abbf29ed",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"ac3df21d-8cce-4db2-b53b-78e0bd2173b5",
-             "name":"Kit Satchel",
-             "ingredients":[
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Elk Pelt",
-                "x1 Perfect Panther Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"6c138c21-35d6-451a-8842-22c42e21afb8",
-       "name":"Panther Eye",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"46a26d7e-a017-448a-bc0d-e2fcb98ce513",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"037bf048-ae5d-4804-b22c-43a2329290b8",
-             "name":"Panther's Eye Trinket",
-             "price":24.50,
-             "ingredients":[
-                "Legendary Panther Eye"
-             ],
-             "effect":"Lowers drain rate of Dead Eye core by 10% for 3 seconds"
-          }
-       ],
-       "campItems":[
-          {
-             "id":"645db9d1-d6cd-48df-b979-edc828b78513",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"5d7afcbf-775d-44f3-8eb2-00a1a1c5f5cd",
-       "name":"Pig Hide",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"411def89-4964-41ca-aa3a-e55debe9e156",
-             "name":"Pigskin Rifleman Gloves",
-             "price":8.00,
-             "ingredients":[
-                "x1 Perfect Pig Hide"
-             ]
-          },
-          {
-             "id":"2f5d95d6-9e36-48af-a8f7-0fb3d92d44c2",
-             "name":"Javeline Moccasins",
-             "price":33.00,
-             "ingredients":[
-                "x2 Perfect Pig Hide (Collared Poccary)"
-             ]
-          },
-          {
-             "id":"3c5666b3-1146-461a-bc8e-1bf53085a0d0",
-             "name":"Iguana Range Gloves",
-             "price":27.00,
-             "ingredients":[
-                "x2 Perfect Iguana Skin",
-                "x1 Perfect Pig Hide (Collared Peccary)"
-             ]
-          },
-          {
-             "id":"9eaa3928-38fc-4283-bb71-b58f91a5cf7b",
-             "name":"Rugged Wrangler Vest",
-             "price":23.00,
-             "ingredients":[
-                "x1 Perfect Pig Hide"
-             ]
-          },
-          {
-             "id":"85c0e97f-569b-4610-b042-91648483544a",
-             "name":"Javelina Half Chaps",
-             "price":18.00,
-             "ingredients":[
-                "x1 Perfect Pig Hide (Collared Peccary)",
-                "x1 Perfect Snake Skin"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"422eec1d-39b1-4de3-aa3e-fa2fe9ddc1c6",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"8d02124d-d9e2-49de-967c-2464b0cb4dc5",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"9ab80cfc-8042-4879-b28a-ad87fa7209b3",
-       "name":"Pronghorn Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"7133dadd-f09c-4a02-974a-15cb74f3e431",
-             "name":"Goat Flop Hat",
-             "price":12.00,
-             "ingredients":[
-                "x1 Perfect Goat Hide",
-                "x1 Perfect Pronghorn Hide"
-             ]
-          },
-          {
-             "id":"a109bbb7-b73b-4f1e-bf87-726b38d77a29",
-             "name":"Legendary Pronghorn Coat",
-             "price":35.00,
-             "ingredients":[
-                "x1 Perfect Moose Pelt",
-                "x1 Legendary Pronghorn Hide"
-             ]
-          },
-          {
-             "id":"fa933ba3-7587-4e23-a9fc-6700c9f2331f",
-             "name":"Legendary Pronghorn Range Gloves",
-             "price":17.00,
-             "ingredients":[
-                "x1 Perfect Muskrat Pelt",
-                "x1 Legendary Pronghorn Hide"
-             ]
-          },
-          {
-             "id":"9c200651-879b-414b-8ed2-04624f745143",
-             "name":"Pronghorn Flop Hat",
-             "price":12.00,
-             "ingredients":[
-                "x4 Perfect Opossum Pelt",
-                "x1 Perfect Pronghorn Hide"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"feaafa3a-c6aa-4cef-ab62-72521fb789bf",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"0a075cd5-f2f5-424d-9f41-66666ffc05b5",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"f4c31fed-cc67-4eb7-807e-2ff6e9736967",
-       "name":"Rabbit Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"6e3e5704-5410-4fa1-ba7b-1d9425874ac3",
-             "name":"Winter Cavalry Gloves",
-             "price":25.00,
-             "ingredients":[
-                "x2 Perfect Muskrat Pelt",
-                "x1 Perfect Rabbit Pelt"
-             ]
-          },
-          {
-             "id":"49bf48ea-df0f-43c4-80b3-c980592e428b",
-             "name":"Boar Riding Gloves",
-             "price":15.00,
-             "ingredients":[
-                "x1 Perfect Boar Pelt",
-                "x2 Perfect Rabbit Pelt"
-             ]
-          },
-          {
-             "id":"8b5e83ee-7e7d-420c-9073-8c438c3ecab2",
-             "name":"Muskrat Cavalry Hat",
-             "price":15.00,
-             "ingredients":[
-                "x1 Perfect Muskrat Pelt",
-                "x4 Perfect Rabbit Pelt"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"81e72fb2-dd0d-4a46-a4b0-f7f871bfdda3",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"775393e4-ec32-4326-a13b-cd5ec575d3c9",
-             "name":"Valuables Satchel",
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Rabbit Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"1620be7d-7688-4c0c-9970-3f52384fb47d",
-       "name":"Raccoon Pelt",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"a7711800-9c51-4a37-80b3-143e9b7f26a9",
-             "name":"Raccoon Mountain Hat",
-             "price":21.00,
-             "ingredients":[
-                "x1 Perfect Beaver Pelt",
-                "x1 Perfect Raccoon Pelt",
-                "x2 Hawk Feather"
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"a83a2b08-d518-4b65-9df4-5c6f50db9299",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"d37177b9-c204-4c7e-8757-4f41d30a95c9",
-             "name":"Provisions Satchel",
-             "ingredients":[
-                "x1 Perfect Bison Pelt",
-                "x1 Perfect Deer Pelt",
-                "x1 Perfect Raccoon Pelt"
-             ]
-          }
-       ]
-    },
-    {
-       "id":"b943e6b4-d6e2-4b45-a93a-3f0639e22a87",
-       "name":"Ram Hide",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"cf073978-efad-4d68-a47e-6fce3fdb43d2",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"7decb7f0-14d6-45d2-91ef-ec589db8082b",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"d451977c-fae3-4f8a-9d22-042393d5a640",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"20a58b05-be8f-41a6-9f7b-215679be11b0",
-       "name":"",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"a00edb0b-590e-4325-9a48-4f1cbe0ee0e7",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"141cbe07-4b55-4447-85cd-906546cb0b85",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"331fc1df-d783-4515-b2d7-7a0b183c2d80",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"2d23a288-5c41-46b5-b249-bdb54e192c54",
-       "name":"",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"82242d0b-b922-4bd5-b9a4-2ed5b9312456",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"190fbe64-26a1-405d-acfe-4b9e8200680d",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"582d2392-b0c1-400c-9334-c3371ddc8004",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"45c109b9-92ea-4c7c-bf27-c00a0d0286e3",
-       "name":"",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"6f8b4e5f-7fda-4f68-b490-83dbe7f17cd5",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"5840060b-2e01-44ba-b571-e1e9fae1323d",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"8dfc49f7-a1f0-4409-aeb4-89db8de101b7",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"7cde6f0c-95cb-4eca-ae85-e104b40f6858",
-       "name":"",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"c17eda93-4a9e-4c64-ad00-5b73bba805e3",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"4fc11c33-c21d-4c6c-a7dd-577352ddc710",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"6ae6957a-5bee-41ca-b623-8edfe11586fb",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    },
-    {
-       "id":"cf3179e2-ba1d-401b-9065-8fa5c42b3626",
-       "name":"",
-       "description":"",
-       "trapperItems":[
-          {
-             "id":"14b13fc3-bff1-46fd-9a50-78c1cb5e8070",
-             "name":"",
-             "price":0.00,
-             "ingredients":[
-                ""
-             ]
-          }
-       ],
-       "fenceItems":[
-          {
-             "id":"be3693cf-87cc-445e-9466-b782f7d8cd13",
-             "name":"",
-             "price":0.0,
-             "ingredients":[
-                ""
-             ],
-             "effect":""
-          }
-       ],
-       "campItems":[
-          {
-             "id":"02c8e7de-d878-4cde-855a-e10743197133",
-             "name":"",
-             "ingredients":[
-                ""
-             ]
-          }
-       ]
-    }
- ]
+[{
+   "id": "fd6017f3-f8cc-4f37-bc84-315ac608aecd",
+   "name": "Highest Quality Meat",
+   "description": "The best of four tiers of meat, this meat comes from the largest creatures in the game, such as Bears, Wolves, and Alligators\nCooking this meat with Mint, Oregano, or Fresh Thyme to get an additional boost to either health, stamina, or dead eye respectively.",
+   "trapperItems": [{
+         "id": "6c9431f4-ded9-4ace-9c8e-7323a65654d6",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      },
+      {
+         "id": "23fda77d-076f-4e7f-8d57-8c791bd2d038",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "cb55aae8-c6cd-4b44-aa7c-0b7ebff30af3",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "466c0a28-d095-4ff0-9ede-8778a7b4c76e",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "04a7ea9d-aa7e-40db-aa03-b64e0b73f300",
+   "name": "High Quality Meat",
+   "description": "High Quality Meat includes Exotic Bird Meat (Parrots, Pelicans), Mature Venison (Deer), Game Meat (Rabbits, Ducks), Succulent Fish (Salmon, Trout), Prime Beef (Cows, Bison), Tender Pork Loin (Javelina, Pigs)",
+   "trapperItems": [{
+         "id": "96c4bad8-4e47-4509-ab08-20fdf0993919",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      },
+      {
+         "id": "f8f47f55-bfdd-4a0e-b680-5db36eddd248",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "df0cfd27-74ae-4724-b3d5-1648e15d683d",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "60f274de-56f5-4246-b150-1a6955cff7cb",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "b9314eab-af94-4d59-8e8e-e6bbc3abdccd",
+   "name": "Good Quality Meat",
+   "description": "Good quality meat includes Plump Bird Meat (Turkey, Chicken, Geese), Crustacean Meat (Shellfish), Gristly Mutton (Sheep, Goats), Flaky Fish (Perch, Bass)",
+   "trapperItems": [{
+         "id": "d144b761-f7ef-4f9f-8064-2a9c5ac7c9d8",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      },
+      {
+         "id": "5e1d8dbf-be11-4593-ac53-f79b3602bd87",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "9f8c512c-97ef-4d16-91f1-8fcc2ec44e2f",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "124c1e67-4fa3-4626-9fcb-f3faa1e90674",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "6645f160-e121-4100-8629-f942ad532110",
+   "name": "Low Quality Meat",
+   "description": "Low Quality Meat includes Gritty Fish (Bluegill, etc), Gamey Birds (Small Birds), Stringy Meat (Rats, etc.), Herptile Meat (Reptiles)",
+   "trapperItems": [{
+         "id": "149561f0-e874-4485-ab53-c26ced4b0e51",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      },
+      {
+         "id": "dd27195e-e87c-42fc-a1c0-cf3d260e1386",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "cb83d756-cac2-424a-afa2-07d64bb86c9a",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "f5cc5674-4db0-45f2-a63c-5d74e2ebb6ea",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "f7bf12ea-13cc-4114-9e36-a65c1f9e831b",
+   "name": "Bird Feather",
+   "description": "Each bird in the game has its own feather, some more valuable than others. The most valuable feathers are the Spoonbill Plumes, Condor Feathers, Heron Plumes, and Egret Feathers.\nDifferent variants of Arthur's Hat can be purchased at the trapper using different types of bird feathers.",
+   "trapperItems": [{
+         "id": "f0e4c051-3054-4244-ae3c-005f2dabab1f",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      },
+      {
+         "id": "7a9d2673-07f6-435b-9522-7a1dcc510656",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "7dcc373e-b74a-4da0-b2db-5abc921de0fc",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "c8496bbb-d6c8-45d8-aa00-7e52e3001cb6",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "3d686ed7-ed0c-445f-ae5a-b2ea3a1d4fdf",
+   "name": "Flight Feather",
+   "description": "Flight feathers are harvested from flying birds, and are used in crafting recipes for Improved, Fire, Poison, and Small Game Arrows. They can also be sold for $0.15 each.",
+   "trapperItems": [{
+         "id": "8f9ef018-757c-4768-ad2a-4bff1a2ae54a",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      },
+      {
+         "id": "b301c344-919e-4bf4-9bc0-c88c6d38b82e",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "9eb97d48-88fd-453f-a29a-12cf2afca41f",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "805047ba-0cad-4a1c-a338-1e2c2da2036b",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "4c26d828-ac08-49b9-bcdb-424169a4e511",
+   "name": "Alligator Skin",
+   "description": "You can use the Alligator skin to craft the Alligator saddle at the trapper.",
+   "trapperItems": [{
+         "id": "1dfcd8d0-3166-4c61-8b81-f4015e3d90f2",
+         "name": "Alligator Ranch Cutter Saddle",
+         "price": 107.00,
+         "ingredients": [
+            "x1 Perfect Alligator Skin"
+         ]
+      },
+      {
+         "id": "239c3c87-4d86-48ff-9e68-39c86948712c",
+         "name": "Legendary Alligator Gambler's Hat",
+         "price": 22.00,
+         "ingredients": [
+            "x1 Legendary Alligator Skin",
+            "x2 Perfect Snake Skin"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "efcd5d20-53a8-4139-b698-973c0d0e6dac",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "ea753132-572f-424a-8324-c142215924e9",
+      "name": "Alligator Skull for Arthur's Lodging",
+      "ingredients": [
+         "x1 Perfect Alligator Skin"
+      ]
+   }]
+},
+{
+   "id": "80b4011e-9640-4879-98a5-03d3372db21b",
+   "name": "Alligator Tooth",
+   "description": "",
+   "trapperItems": [{
+      "id": "8b1e54f2-cbb0-4f22-8426-2c34e92131c4",
+      "name": "",
+      "price": 0,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "a3b42a67-0680-4a97-9c5c-eeb03304c6a1",
+      "name": "Alligator Tooth Talisman",
+      "price": 40.00,
+      "ingredients": [
+         "x1 Legendary Alligator Tooth"
+      ],
+      "effect": "Lowers the drain speed of Dead Eye Core by 10%"
+   }],
+   "campItems": [{
+      "id": "d71b7646-50a5-4a60-b321-9ca1afeb1d5e",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "266ca72f-6ff5-4dda-9609-5690da84d7b0",
+   "name": "Armadillo Skin",
+   "description": "",
+   "trapperItems": [{
+      "id": "5d5f53cc-144d-4154-b6b7-0fb0fa7324ed",
+      "name": "Billy Vest",
+      "price": 32.00,
+      "ingredients": [
+         "x2 Perfect Armadillo Skin",
+         "x1 Perfect Goat Hide"
+      ]
+   }],
+   "fenceItems": [{
+      "id": "8ec13cbc-5d50-4531-8604-3dbc640558f5",
+      "name": "",
+      "price": 0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "d986d8c2-d9df-4398-af8c-0214effe92cc",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "4138234f-9d29-4872-960d-8248f84474d1",
+   "name": "Badger Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "00330bf2-dde8-4571-b6c7-547c7b8fb42e",
+         "name": "Badger Mountain Hat",
+         "price": 26.00,
+         "ingredients": [
+            "x1 Perfect Badger Pelt"
+         ]
+      },
+      {
+         "id": "bd0a7b5c-1d26-45b4-bae0-ac63a4c7ccbc",
+         "name": "Badger Rifleman Gloves",
+         "price": 10.00,
+         "ingredients": [
+            "x1 Perfect Badger Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "9aa0d62d-7eaa-475a-8503-2e0569b0fd06",
+      "name": "",
+      "price": 0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "f7cc920c-5b54-48bf-b89d-b2b3ab4e3115",
+      "name": "Ingredients Satchel",
+      "ingredients": [
+         "x1 Perfect Badger Pelt",
+         "x1 Perfect Deer Pelt",
+         "x1 Perfect Squirrel Pelt"
+      ]
+   }]
+},
+{
+   "id": "241dc1d4-3d41-4a96-b585-b434063b5267",
+   "name": "Beaver Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "08bc567d-348b-4660-ba5a-5fd443d88d45",
+         "name": "Beaver Roping Saddle",
+         "price": 96.00,
+         "ingredients": [
+            "x1 Perfect Beaver Pelt"
+         ]
+      },
+      {
+         "id": "43626909-e230-4366-82c1-03ab7857ba40",
+         "name": "Beaver Mountain Hat",
+         "price": 25.00,
+         "ingredients": [
+            "x1 Perfect Beaver Pelt"
+         ]
+      },
+      {
+         "id": "259720c6-5e21-4a84-bbcc-5680c4e66299",
+         "name": "Country Vest",
+         "price": 25.00,
+         "ingredients": [
+            "x1 Perfect Beaver Pelt",
+            "x1 Perfect Buck Pelt"
+         ]
+      },
+      {
+         "id": "b774e556-8e1e-475a-96d8-cbe233a47b73",
+         "name": "Grenadier Hat",
+         "price": 24.00,
+         "ingredients": [
+            "x1 Perfect Beaver Pelt",
+            "x1 Perfect Muskrat Pelt"
+         ]
+      },
+      {
+         "id": "ad556f78-e588-4baa-be39-9d354e614345",
+         "name": "Legendary Beaver Flop Hat",
+         "price": 22.00,
+         "ingredients": [
+            "x1 Legendary Beaver Pelt",
+            "x1 Legendary Boar Pelt",
+            "x1 Cardinal Feather"
+         ]
+      },
+      {
+         "id": "32a40826-7eb1-4225-8e94-22fe0b863729",
+         "name": "Beaver Hunting Jacket",
+         "price": 21.00,
+         "ingredients": [
+            "x2 Perfect Beaver Pelt",
+            "x1 Perfect Cow Hide"
+         ]
+      },
+      {
+         "id": "8f047b2e-ddda-4329-8d77-6bd65ee5e739",
+         "name": "Raccoon Mountain Hat",
+         "price": 21.00,
+         "ingredients": [
+            "x1 Perfect Beaver Pelt",
+            "x1 Perfect Raccoon Pelt",
+            "x2 Hawk Feather"
+         ]
+      },
+      {
+         "id": "b4625244-587c-4441-81e6-f1cc32af1f61",
+         "name": "Beaver Drifter Hat",
+         "price": 20.00,
+         "ingredients": [
+            "x2 Perfect Beaver Pelt "
+         ]
+      },
+      {
+         "id": "90c50b9b-345c-490a-920f-2b3c1f67d857",
+         "name": "Legendary Beaver Cavalry Gloves",
+         "price": 18.00,
+         "ingredients": [
+            "x1 Legendary Beaver Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "8b99ed9d-ac78-4e91-81da-cb5153b75a02",
+      "name": "",
+      "price": 0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+         "id": "8e171553-35f3-447a-94d3-c721bcc4a1da",
+         "name": "Main Campfire Seat Cover",
+         "ingredients": [
+            "x1 Perfect Beaver Pelt",
+            "x1 Perfect Muskrat Pelt",
+            "x1 Perfect Fox Pelt"
+         ]
+      },
+      {
+         "id": "31e9bb92-1a96-4559-913f-79712603f6a4",
+         "name": "Valuables Satchel",
+         "ingredients": [
+            "x1 Perfect Beaver Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Rabbit Pelt"
+         ]
+      }
+   ]
+},
+{
+   "id": "035e8587-a170-4bce-b695-cd1f557967fb",
+   "name": "Beaver Tooth",
+   "description": "",
+   "trapperItems": [{
+      "id": "e2480f3a-02eb-4ecc-8884-07b374e18a76",
+      "name": "",
+      "price": 107.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "ba3a3010-1227-4529-9fb2-9347f94709ac",
+      "name": "Beaver Tooth Trinket",
+      "price": 18.25,
+      "ingredients": [
+         "Levendary Beaver Tooth"
+      ],
+      "effect": "Slows weapons degradation by 10%"
+   }],
+   "campItems": [{
+      "id": "abca9400-c59e-4d6d-b486-e69176dc8356",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "27344ac1-08f2-45d4-99bd-dfc53b7eda57",
+   "name": "Bison Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "504e5a99-e692-42c3-b0ec-191091b332fa",
+         "name": "Bison Gambler's Hat",
+         "price": 18.00,
+         "ingredients": [
+            "x1 Perfect Bison Pelt",
+            "x4 Robin Feather",
+            "x4 Oriole Feather"
+         ]
+      },
+      {
+         "id": "b20fade2-3431-4eea-b1f1-ff1d0a561f56",
+         "name": "Plantation Slouch Hat",
+         "price": 15.00,
+         "ingredients": [
+            "x1 Perfect Bison Pelt"
+         ]
+      },
+      {
+         "id": "9b4d14f8-9e1c-4ad6-b7d0-183f220ea771",
+         "name": "Legendary White Bison Hat",
+         "price": 45.00,
+         "ingredients": [
+            "x1 Legendary White Bison Pelt"
+         ]
+      },
+      {
+         "id": "fc405a8e-c7ce-42eb-b24f-df2e0175bb4b",
+         "name": "Legendary Boar and Bison Fowlers",
+         "price": 37.00,
+         "ingredients": [
+            "x1 Legendary Tatanka Bison Pelt",
+            "x1 Legendary Boar Pelt"
+         ]
+      },
+      {
+         "id": "fd095e53-5557-4f0d-8496-60c54ad0315b",
+         "name": "Legendary Bison Batwing Chaps",
+         "price": 32.00,
+         "ingredients": [
+            "x1 Legendary Tatanka Bison Pelt"
+         ]
+      },
+      {
+         "id": "107cb7cf-009b-43ac-9bf1-e3c2a06b3d3f",
+         "name": "Legendary Bison Vest",
+         "price": 30.00,
+         "ingredients": [
+            "x1 Legendary Tatanka Bison Pelt"
+         ]
+      },
+      {
+         "id": "caa2106f-9fb0-4b9a-98b6-fd3f1559713a",
+         "name": "Legendary White Bison Coat",
+         "price": 29.00,
+         "ingredients": [
+            "x1 Legendary White Bison Pelt"
+         ]
+      },
+      {
+         "id": "51bbc4a4-7602-461d-875f-f8396c54cc3e",
+         "name": "Legendary Bear Coat",
+         "price": 28.00,
+         "ingredients": [
+            "x1 Legendary Beaver Pelt",
+            "x1 Perfect Bison Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "20cfce15-fe36-4270-952f-b84c8ae7d108",
+      "name": "",
+      "price": 0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+         "id": "41ac5c40-0dae-4cff-94be-390fde099e50",
+         "name": "Fur Horse Blankets For Camp Entrance",
+         "ingredients": [
+            "x1 Perfect Bison Pelt",
+            "x2 Perfect Coyote Pelt"
+         ]
+      },
+      {
+         "id": "26ca1035-3a55-4f53-9e81-df7f6dfc9206",
+         "name": "Provisions Satchel",
+         "ingredients": [
+            "x1 Perfect Bison Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Raccoon Pelt"
+         ]
+      }
+   ]
+},
+{
+   "id": "1e3bcba5-50d6-4648-966d-1c8708ab02d8",
+   "name": "Bison Horn",
+   "description": "",
+   "trapperItems": [{
+      "id": "00ce2bb3-d6ff-4840-ab98-2eaa9b357016",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+         "id": "fe2e71be-7176-4b3d-8821-6dd4fa573dad",
+         "name": "White Bison Horn Talisman",
+         "price": 38.50,
+         "ingredients": [
+            "x1 Legendary White Bison Horn",
+            "x1 Abalone Shell Fragment",
+            "x1 Silver Earring"
+         ],
+         "effect": "Lowers the drain speed of Stamina Core by 10%"
+      },
+      {
+         "id": "b3eb2535-1a86-491d-b256-d3a2d9c614e1",
+         "name": "Tatanka Bison Horn Trinket",
+         "price": 16.75,
+         "ingredients": [
+            "x1 Legendary Tatanka Bison Horn"
+         ],
+         "effect": "Decreases the amount of damage taken in melee combat by 10%"
+      }
+   ],
+   "campItems": [{
+      "id": "39a8d5ab-06ab-48cf-b2c9-8f8e65874c0d",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "fc2e2460-a119-46d6-924c-33130ba6b637",
+   "name": "Bear Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "f72ef4fb-5b8f-4374-8b27-43ae3f413f2a",
+         "name": "Bear Fringed Shotgun Chaps",
+         "price": 38.00,
+         "ingredients": [
+            "x1 Perfect Black Bear Pelt"
+         ]
+      },
+      {
+         "id": "3897e1a0-e904-4b58-9e22-27318c1b2721",
+         "name": "Bear Grenadier Hat",
+         "price": 24.00,
+         "ingredients": [
+            "x1 Perfect Black Bear Pelt"
+         ]
+      },
+      {
+         "id": "58a2a9dc-2425-4434-9874-bc144ac7e29e",
+         "name": "Cougar Cutaway Coat",
+         "price": 39.00,
+         "ingredients": [
+            "x1 Perfect Black Bear Pelt",
+            "x2 Perfect Cougar Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "334ebe4d-5939-49ca-9154-5a2f7fab2391",
+      "name": "",
+      "price": 0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "278f3d82-89b3-4f77-af72-434280df152d",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "c5401daf-72e2-4893-baf4-2c36fd9f2aba",
+   "name": "Boar Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "010556bc-1a96-44ed-b695-c43a8f2e5015",
+         "name": "Boar Mother Hubbard Saddle",
+         "price": 90.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt"
+         ]
+      },
+      {
+         "id": "ae6b1c84-b29e-49df-a0ea-86f9fa695e33",
+         "name": "Boar and Bull Fowler Boots",
+         "price": 31.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Perfect Ox Hide"
+         ]
+      },
+      {
+         "id": "42344440-a100-4a27-b84c-69d587e728a2",
+         "name": "Boar Fringed Shotgun Chaps",
+         "price": 25.00,
+         "ingredients": [
+            "x2 Perfect Boar Pelt"
+         ]
+      },
+      {
+         "id": "cc6b1f29-0e47-418b-bd3c-f1452c4cc2e4",
+         "name": "Bull Fowler Boots",
+         "price": 29.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Perfect Bull Hide"
+         ]
+      },
+      {
+         "id": "b9d3e5c5-09fd-4d9f-bf6f-8d442353b487",
+         "name": "Snake Skin Cavalry Gloves",
+         "price": 26.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Perfect Snake Skin"
+         ]
+      },
+      {
+         "id": "4c42f6a5-196f-42de-bec0-0126caa416af",
+         "name": "Boar Riding Gloves",
+         "price": 15.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x2 Perfect Rabbit Pelt"
+         ]
+      },
+      {
+         "id": "9590a3a1-bde2-4e64-b995-904fb67acde4",
+         "name": "Huntsman Accessory",
+         "price": 10.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Hawk Feather",
+            "x2 Quail Feather"
+         ]
+      },
+      {
+         "id": "341f0d49-4caf-4e07-977a-4189a0d322e4",
+         "name": "Legendary Boar and Bison Fowlers",
+         "price": 37.00,
+         "ingredients": [
+            "x1 Legendary Tatanka Bison Pelt",
+            "x1 Legendary Boar Pelt"
+         ]
+      },
+      {
+         "id": "bb1a1e7f-1641-4876-916a-025c351278fe",
+         "name": "Legendary Beaver Flop Hat",
+         "price": 22.00,
+         "ingredients": [
+            "x1 Legendary Beaver Pelt",
+            "x1 Legendary Boar Pelt",
+            "x1 Cardinal Feather"
+         ]
+      },
+      {
+         "id": "640f8e79-4969-44d6-96c1-081e9d13c6c7",
+         "name": "Legendary Cougar Riding Gloves",
+         "price": 20.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Legendary Cougar Pelt"
+         ]
+      },
+      {
+         "id": "6d68a42a-83b7-4423-8fc8-e69f14f53600",
+         "name": "Legendary Ram Rifleman Gloves",
+         "price": 12.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Legendary Ram Hide"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "ccee738c-73a3-4b0d-a07e-fb2b1eb9379c",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+         "id": "9feb22df-09ea-4e94-8145-8fb944910b52",
+         "name": "Boar Skin Table Cover for Arthur's Lodging",
+         "ingredients": [
+            "x1 Perfect Boar Pelt"
+         ]
+      },
+      {
+         "id": "5a5b27e6-6ef0-4a24-8ecb-dfd611a864f7",
+         "name": "Boar Skin Rug for John's Lodging",
+         "ingredients": [
+            "x4 Perfect Boar Pelt"
+         ]
+      },
+      {
+         "id": "a05caf39-f543-45ca-b702-2996dbed846e",
+         "name": "Materials Satchel",
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Iguana Skin"
+         ]
+      }
+   ]
+},
+{
+   "id": "0d790e13-95b3-48ec-84cf-e56cd27554ba",
+   "name": "Boar Tusk",
+   "description": "",
+   "trapperItems": [{
+      "id": "798ab859-4fa1-4079-8515-c885423a625e",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "e24733ff-1add-4a7c-8805-78853cac25f9",
+      "name": "Boar Tusk Talisman",
+      "price": 31.00,
+      "ingredients": [
+         "x1 Legendary Boar Tusk",
+         "x1 Gold Earring",
+         "x1 Cobalt Petrified Wood"
+      ],
+      "effect": "Lowers player and horse's health core drain speed by 10%"
+   }],
+   "campItems": [{
+      "id": "9f0844db-751e-4845-aadf-c5acbfc73f97",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "e06e1be4-a5df-44ae-9ebc-6962e280416b",
+   "name": "Buck Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "c67fdea8-ed5b-4356-8e0f-af0adc843358",
+         "name": "Buck Riding Gloves",
+         "price": 5.00,
+         "ingredients": [
+            "x1 Perfect Buck Pelt"
+         ]
+      },
+      {
+         "id": "b8e4a8e8-66ab-486f-bd9b-5576a2ae2cd6",
+         "name": "Country Vest",
+         "price": 25.00,
+         "ingredients": [
+            "x1 Perfect Buck Pelt",
+            "x1 Perfect Beaver Pelt"
+         ]
+      },
+      {
+         "id": "ef2aa2c2-df24-4f82-8bb6-d41cbfddf9f4",
+         "name": "Moccasins",
+         "price": 17.00,
+         "ingredients": [
+            "x1 Perfect Buck Pelt"
+         ]
+      },
+      {
+         "id": "be1a21f0-811b-46f3-9572-f68d67e637f2",
+         "name": "Two Toned Moccasins",
+         "price": 15.00,
+         "ingredients": [
+            "x1 Perfect Buck Pelt"
+         ]
+      },
+      {
+         "id": "b7007e22-6dc6-4398-8422-ba45a652fbf4",
+         "name": "Legendary Buck and Fox Range Gloves",
+         "price": 28.00,
+         "ingredients": [
+            "x1 Legendary Buck Pelt",
+            "x1 Legendary Fox Pelt"
+         ]
+      },
+      {
+         "id": "49e3193e-fffe-41fe-946f-55855e2cb97e",
+         "name": "Legendary Buck Vest",
+         "price": 26.00,
+         "ingredients": [
+            "x1 Legendary Buck Pelt",
+            "x1 Perfect Ram Hide"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "766f6c76-49e8-4b27-8076-dc0cd2298bac",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+         "id": "38cd7b49-1f37-4873-b7c3-3feb5aac9301",
+         "name": "Hanging Bones for Scout Campfire",
+         "ingredients": [
+            "x1 Buck Antlers"
+         ]
+      },
+      {
+         "id": "a66a8123-e345-4e62-a0c5-8e680eb8f237",
+         "name": "Tonics Satchel",
+         "ingredients": [
+            "x1 Perfect Buck Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Elk Pelt"
+         ]
+      }
+   ]
+},
+{
+   "id": "05e39607-3524-4c42-a7e9-d72b2584e526",
+   "name": "Buck Carcass",
+   "description": "",
+   "trapperItems": [{
+         "id": "fa29b0c5-3442-4383-acf7-ce94962274db",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      },
+      {
+         "id": "ca337db3-a079-417b-9080-04d782e251fa",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "da3f2ee1-69dd-4024-bd6f-f40de8bc116b",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "40e02ea2-22a2-4e52-b9d4-5a75c0c5a502",
+      "name": "Buck Skull for Camp Entrance",
+      "ingredients": [
+         "x1 Perfect Buck Carcass"
+      ]
+   }]
+},
+{
+   "id": "db2eecda-0033-455a-8c3e-853049c68b30",
+   "name": "Buck Antler",
+   "description": "",
+   "trapperItems": [{
+         "id": "b0e67ffd-f765-4e3e-b305-6f7f9fc9002e",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      },
+      {
+         "id": "f3475c9c-bbdf-4724-a137-bde20352be8f",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "bfbbaa32-9cf9-4524-8f8f-066b043b5bcf",
+      "name": "Buck Antler Trinket",
+      "price": 22.00,
+      "ingredients": [
+         "x1 Legendary Buck Antler"
+      ],
+      "effect": "Raises chances of higher quality parts from skinning animals"
+   }],
+   "campItems": [{
+      "id": "11295403-54f1-40ea-a47c-cdba32e12915",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "cb8762e9-c9be-4929-9304-742b0929ea1c",
+   "name": "Bull Hide",
+   "description": "",
+   "trapperItems": [{
+         "id": "121b0004-7531-4059-b40d-9ee7eba44885",
+         "name": "Bull Fowler Boots",
+         "price": 29.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Perfect Bull Hide"
+         ]
+      },
+      {
+         "id": "794c96c4-ff14-4860-a20e-5ba898e11cef",
+         "name": "Bull Fringed Shotgun Chaps",
+         "price": 18.00,
+         "ingredients": [
+            "x1 Perfect Bull Hide"
+         ]
+      },
+      {
+         "id": "797e1113-9498-4d7d-b978-1e97056d5d65",
+         "name": "Legendary Bear Roper",
+         "price": 34.00,
+         "ingredients": [
+            "x1 Perfect Bull Hide",
+            "x1 Legendary Bear Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "77b064bd-ab57-45bc-9502-efa88bdf0981",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "dce1560d-39bd-4ef6-b1b5-9efd3651edb1",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "e05589af-271d-4e0c-8666-c59575d624ba",
+   "name": "Cougar Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "5fd94f3a-e09e-4efa-96fd-284b22c5842d",
+         "name": "Cougar Cutaway Coat",
+         "price": 39.00,
+         "ingredients": [
+            "x1 Perfect Black Bear Pelt",
+            "x2 Perfect Cougar Pelt"
+         ]
+      },
+      {
+         "id": "2e37c76d-825f-4762-ad79-6a86cfa682b6",
+         "name": "Rustic Vest",
+         "price": 23.00,
+         "ingredients": [
+            "x2 Perfect Cougar Pelt",
+            "x1 Perfect Bear Pelt"
+         ]
+      },
+      {
+         "id": "decaf953-cead-4623-9471-247e4edb406c",
+         "name": "Cougar McClelland Saddle",
+         "price": 110.00,
+         "ingredients": [
+            "x1 Perfect Cougar Pelt"
+         ]
+      },
+      {
+         "id": "a1e342bc-102b-4531-8886-2e383d98c900",
+         "name": "Legendary Cougar / Wolf Vest",
+         "price": 42.00,
+         "ingredients": [
+            "x1 Legendary Cougar Pelt",
+            "x1 Legendary Wolf Pelt"
+         ]
+      },
+      {
+         "id": "c685117f-0865-4b83-85f9-3055ebdd6ea4",
+         "name": "Legendary Cougar Riding Gloves",
+         "price": 20.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Legendary Cougar Pelt"
+         ]
+      },
+      {
+         "id": "639896a4-1c67-44b6-89b0-5eff11d70ce4",
+         "name": "Legendary Cougar Flop Hat",
+         "price": 0.00,
+         "ingredients": [
+            "x1 Legendary Cougar Pelt",
+            "x2 Turkey Feather"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "5c71a42d-6184-4e13-aba0-65a9261996be",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+         "id": "58b887a6-0db0-45de-8fed-37416dfa0ed2",
+         "name": "Cougar Pelt Covered Chest for Arthur's Lodging",
+         "ingredients": [
+            "x2 Perfect Cougar Pelt"
+         ]
+      },
+      {
+         "id": "dc8b06a9-83d5-4b85-b1b2-9d60426d8493",
+         "name": "Legend of the East Satchel",
+         "ingredients": [
+            "x1 Perfect Cougar Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Wolf Pelt"
+         ]
+      }
+   ]
+},
+{
+   "id": "2840ad6e-3875-49f9-af5d-badfbd4f385e",
+   "name": "Cougar Fang",
+   "description": "",
+   "trapperItems": [{
+         "id": "c799b977-b2f1-47b2-8f91-4795259e3093",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      },
+      {
+         "id": "edef5671-75c9-4238-9cec-843d69275b02",
+         "name": "",
+         "price": 0.00,
+         "ingredients": [
+            ""
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "88dce254-7e89-45cb-8f7f-94a595de893e",
+      "name": "Cougar's Paw Trinket",
+      "price": 20.50,
+      "ingredients": [
+         "x1 Legendary Cougar Fang"
+      ],
+      "effect": "Raises Stamina XP gain by 10%"
+   }],
+   "campItems": [{
+      "id": "7fba231c-71cc-49e5-81a4-377ab167f1a4",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "6ab2535f-6d1c-42a0-9849-61c9388c65d7",
+   "name": "Cow Hide",
+   "description": "",
+   "trapperItems": [{
+         "id": "a2f236bf-7f32-4006-9983-8c09d355c60e",
+         "name": "Workman's Pride Boots",
+         "price": 28.00,
+         "ingredients": [
+            "x1 Perfect Cow Hide",
+            "x1 Perfect Goat Hide"
+         ]
+      },
+      {
+         "id": "da2619d4-d2bb-420d-bd8d-c0b7e978fc95",
+         "name": "Beaver Hunting Jacket",
+         "price": 21.00,
+         "ingredients": [
+            "x2 Perfect Beaver Pelt",
+            "x1 Perfect Cow Hide"
+         ]
+      },
+      {
+         "id": "da1b2001-e9e2-4750-8de7-919cd8043f8d",
+         "name": "Principal Vest",
+         "price": 18.00,
+         "ingredients": [
+            "x1 Perfect Cow Hide",
+            "x1 Perfect Deer Pelt"
+         ]
+      },
+      {
+         "id": "ca2bfb32-b7b6-412f-860e-07c945e4e2dc",
+         "name": "Iguana Big Valley Hat",
+         "price": 14.00,
+         "ingredients": [
+            "x1 Perfect Cow Hide",
+            "x1 Perfect Iguana Skin"
+         ]
+      },
+      {
+         "id": "41f17cef-4005-402a-a828-ae4c13b9a162",
+         "name": "Legendary Moose Moccasins",
+         "price": 22.00,
+         "ingredients": [
+            "x1 Perfect Cow Hide",
+            "x1 Legendary Moose Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "c731c16b-9672-485c-88f9-ab337ec31c69",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "07892e25-b7c5-4083-a1c4-5ff2a16fabbf",
+      "name": "Cow Hide Ground Cover for Main Campfire",
+      "ingredients": [
+         "x1 Perfect Cow Hide"
+      ]
+   }]
+},
+{
+   "id": "71aeac71-9240-4492-9b5b-907bc7b155d1",
+   "name": "Coyote Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "85cc2713-26aa-41ae-8936-852c7d15ca72",
+         "name": "Coyote Scout Jacket",
+         "price": 20.00,
+         "ingredients": [
+            "x1 Perfect Coyote Pelt",
+            "x1 Perfect Ox Hide"
+         ]
+      },
+      {
+         "id": "07fbe038-65bf-4b44-9eae-dd946997e0b0",
+         "name": "Coyote Gambler's Hat",
+         "price": 16.00,
+         "ingredients": [
+            "x2 Perfect Coyote Pelt"
+         ]
+      },
+      {
+         "id": "f600e958-0514-491e-93da-c09215dfb1e4",
+         "name": "Legendary Coyote Mountain Hat",
+         "price": 23.00,
+         "ingredients": [
+            "x1 Legendary Coyote Pelt",
+            "x2 Eagle Feather"
+         ]
+      },
+      {
+         "id": "7d6be7ad-74ef-4f76-9bd7-4fc2f939b659",
+         "name": "Legendary Coyote Half Chaps",
+         "price": 20.00,
+         "ingredients": [
+            "x1 Legendary Coyote Pelt",
+            "x2 Perfect Fox Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "7904f63e-dc50-4cea-876e-c4bc55882dc6",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "29afd093-285c-4ae8-8481-f35b4730f41e",
+      "name": "Fur Horse Blankets For Camp Entrance",
+      "ingredients": [
+         "x1 Perfect Bison Pelt",
+         "x2 Perfect Coyote Pelt"
+      ]
+   }]
+},
+{
+   "id": "6e84dd81-f9f0-47b5-8931-c2b67af45ea4",
+   "name": "Coyote Fang",
+   "description": "",
+   "trapperItems": [{
+      "id": "3eb4db42-c9e8-44e5-90ac-90826ace82cd",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "262c6c10-0789-428d-bc31-49a480eb999e",
+      "name": "Coyote Fang Trinket",
+      "price": 21.50,
+      "ingredients": [
+         "Legendary Coyote Fang"
+      ],
+      "effect": "Raises Dead Eye XP gain by 10%"
+   }],
+   "campItems": [{
+      "id": "4f62bffd-ab1d-4f6d-b6af-370114c0a6f0",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "0d013958-df3f-4c12-b7fd-1dbdc8e5dfd5",
+   "name": "Deer Hide",
+   "description": "",
+   "trapperItems": [{
+         "id": "5c4b91cc-810b-420e-8639-036a396fb5cb",
+         "name": "Deer Pelt Half Chaps",
+         "price": 9.00,
+         "ingredients": [
+            "x1 Perfect Deer Pelt"
+         ]
+      },
+      {
+         "id": "fd3aa948-9aac-4dfd-9d1f-7b9c8ef68d44",
+         "name": "Huntsman Vest",
+         "price": 25.00,
+         "ingredients": [
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Sheep Hide"
+         ]
+      },
+      {
+         "id": "fb937840-bfe6-4540-82f8-4d0bb77a3588",
+         "name": "Deer Cavalry Hat",
+         "price": 20.00,
+         "ingredients": [
+            "x1 Perfect Deer Pelt",
+            "x10 Raven Feather"
+         ]
+      },
+      {
+         "id": "23daad1a-d2da-4a2f-af58-8d1eaa73b606",
+         "name": "Principal Vest",
+         "price": 18.00,
+         "ingredients": [
+            "x1 Perfect Cow Hide",
+            "x1 Perfect Deer Pelt"
+         ]
+      },
+      {
+         "id": "27109086-305b-4e09-8d66-f47ba004327e",
+         "name": "Batwing Chaps",
+         "price": 12.00,
+         "ingredients": [
+            "x1 Perfect Deer Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "ef5f2165-5b2c-402d-84ef-e133796b4f62",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+         "id": "066ee19e-23a5-490c-8425-db0ad122fe7e",
+         "name": "Tonics Satchel",
+         "ingredients": [
+            "x1 Perfect Buck Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Elk Pelt"
+         ]
+      },
+      {
+         "id": "5dcdb2f7-6196-479e-a5eb-b5ebcaa6c8b8",
+         "name": "Ingredients Satchel",
+         "ingredients": [
+            "x1 Perfect Badger Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Squirrel Pelt"
+         ]
+      },
+      {
+         "id": "a663ca96-3efc-4baf-bea1-b8585aae4b5a",
+         "name": "Kit Satchel",
+         "ingredients": [
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Elk Pelt",
+            "x1 Perfect Panther Pelt"
+         ]
+      },
+      {
+         "id": "d6c1904c-07a9-4421-acf7-8e022d2ee461",
+         "name": "Provisions Satchel",
+         "ingredients": [
+            "x1 Perfect Bison Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Raccoon Pelt"
+         ]
+      },
+      {
+         "id": "58fd193d-00a6-404a-93df-b665d939ee45",
+         "name": "Materials Satchel",
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Iguana Skin"
+         ]
+      },
+      {
+         "id": "d500dca7-1c9a-4e3a-a39d-4bf5ec020f66",
+         "name": "Valuables Satchel",
+         "ingredients": [
+            "x1 Perfect Beaver Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Rabbit Pelt"
+         ]
+      },
+      {
+         "id": "fe940d2c-ef4c-4be3-970c-eb5dc72ccea6",
+         "name": "Legend of the East Satchel",
+         "ingredients": [
+            "x1 Perfect Cougar Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Wolf Pelt"
+         ]
+      }
+   ]
+},
+{
+   "id": "78516f57-dc3e-46b4-aa14-327a478a43ff",
+   "name": "Elk Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "16b02ba1-79d9-4f91-9f78-b83e4efc5ac2",
+         "name": "Elk Fringed Shotgun Chaps",
+         "price": 21.00,
+         "ingredients": [
+            "x1 Perfectt Elk Pelt"
+         ]
+      },
+      {
+         "id": "8c8088be-cc6a-447c-8978-a10bf290acc5",
+         "name": "Gila Monster Gambler's Hat",
+         "price": 16.00,
+         "ingredients": [
+            "x1 Perfect Elk Pelt",
+            "x1 Perfect Gila Monster Skin"
+         ]
+      },
+      {
+         "id": "5440269a-903b-4fde-b8fa-c99b925142fe",
+         "name": "Elk Riding Gloves",
+         "price": 12.00,
+         "ingredients": [
+            "x1 Perfect Elk Pelt"
+         ]
+      },
+      {
+         "id": "bdbdb02c-c272-4561-852e-2f8a1f30577a",
+         "name": "Elk Flop Hat",
+         "price": 12.00,
+         "ingredients": [
+            "x1 Perfect Elk Pelt"
+         ]
+      },
+      {
+         "id": "fa3f77bb-1f42-4aba-acd1-dbb966a21689",
+         "name": "Legendary Elk Moccasins",
+         "price": 30.00,
+         "ingredients": [
+            "x1 Legendary Elk Pelt",
+            "x1 Perfect Goat Hide"
+         ]
+      },
+      {
+         "id": "893ddfd5-5634-4377-9c13-95be46f462c2",
+         "name": "Legendary Elk Half Chaps",
+         "price": 16.00,
+         "ingredients": [
+            "x1 Legendary Elk Pelt",
+            "x1 Perfect Sheep Hide"
+         ]
+      },
+      {
+         "id": "b6cfca24-f760-4d1c-a986-aeed615d1676",
+         "name": "Legendary Elk Range Gloves",
+         "price": 13.00,
+         "ingredients": [
+            "x1 Legendary Elk Pelt"
+         ]
+      },
+      {
+         "id": "43a96007-1acd-4a6b-b116-ff7ea6e7d4fc",
+         "name": "Legendary Fox Moccasins",
+         "price": 40.00,
+         "ingredients": [
+            "x1 Perfect Elk Pelt",
+            "x1 Legendary Fox Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "fafd20e2-ada8-49c4-a272-a88fc8d6fdb7",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+         "id": "7a606ee5-e348-467f-80e8-4a602be37039",
+         "name": "Tonics Satchel",
+         "ingredients": [
+            "x1 Perfect Buck Pelt",
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Elk Pelt"
+         ]
+      },
+      {
+         "id": "8e2f3e63-4d9e-477e-9903-de7957d26e09",
+         "name": "Kit Satchel",
+         "ingredients": [
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Elk Pelt",
+            "x1 Perfect Panther Pelt"
+         ]
+      }
+   ]
+},
+{
+   "id": "400a2037-db6a-4556-945c-09be903df14e",
+   "name": "Elk Antlers",
+   "description": "",
+   "trapperItems": [{
+      "id": "17496e85-1cd2-4756-b25c-5e54210a9bd9",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "4902ae2a-07b3-401e-8983-9363f8ab0965",
+      "name": "Elk Antler Trinket",
+      "price": 22.75,
+      "ingredients": [
+         "x1 Legendary Elk Antler"
+      ],
+      "effect": "Increases money gained from looting by 10%"
+   }],
+   "campItems": [{
+      "id": "12d17319-33fc-43be-96fa-44197872e94d",
+      "name": "Elk Antlers for Scout Campfire",
+      "ingredients": [
+         "x1 Elk Antler"
+      ]
+   }]
+},
+{
+   "id": "e397dc58-fd5f-42ae-aee4-8b013e67cf63",
+   "name": "Fox Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "5a70339d-0a1b-4fd3-97f6-74ef62885267",
+         "name": "Fox Mountain Hat",
+         "price": 30.00,
+         "ingredients": [
+            "x1 Perfect Fox Pelt"
+         ]
+      },
+      {
+         "id": "88111cc6-aac5-477e-985f-c739331b65cf",
+         "name": "Legendary Fox Moccasins",
+         "price": 40.00,
+         "ingredients": [
+            "x1 Perfect Elk Pelt",
+            "x1 Legendary Fox Pelt"
+         ]
+      },
+      {
+         "id": "a2bd50a8-a802-4332-bd16-d5e2c6a810e6",
+         "name": "Legendary Buck and Fox Range Gloves",
+         "price": 28.00,
+         "ingredients": [
+            "x1 Legendary Buck Pelt",
+            "x1 Legendary Fox Pelt"
+         ]
+      },
+      {
+         "id": "1d8cc2fd-a32d-4e69-b32f-cf21fe13938c",
+         "name": "Legendary Coyote Half Chaps",
+         "price": 20.00,
+         "ingredients": [
+            "x1 Legendary Coyote Pelt",
+            "x2 Perfect Fox Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "e5054e62-1aba-4803-b44a-4c895ec913e1",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "3c269be0-1129-46ac-b8f7-243bf4b5d1b5",
+      "name": "Main Campfire Seat Cover",
+      "ingredients": [
+         "x1 Perfect Beaver Pelt",
+         "x1 Perfect Muskrat Pelt",
+         "x1 Perfect Fox Pelt"
+      ]
+   }]
+},
+{
+   "id": "403fc708-8cd0-4896-aff9-d8c8bb0ed8a1",
+   "name": "Fox Claw",
+   "description": "",
+   "trapperItems": [{
+      "id": "3c58a74a-72df-453f-b9cc-a02b27fd5665",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "dff27842-6a32-4fab-a08b-fe1a64321daf",
+      "name": "Fox Claw Trinket",
+      "price": 23.50,
+      "ingredients": [
+         "x1 Legendary Fox Claw"
+      ],
+      "effect": "Increases Eagle Eye duration by five seconds"
+   }],
+   "campItems": [{
+      "id": "88f29572-c250-4f85-b1bf-fcd3fc9b124b",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "77e771af-c857-4a9a-bade-26ab06c89a20",
+   "name": "Gila Monster Skin",
+   "description": "",
+   "trapperItems": [{
+         "id": "4e64fd09-c6ff-44eb-ac67-20143dcadc19",
+         "name": "Gila Monster Gambler's Hat",
+         "price": 16.00,
+         "ingredients": [
+            "x1 Perfect Gila Monster Skin",
+            "x1 Perfect Elk Pelt"
+         ]
+      },
+      {
+         "id": "b24fc73d-13e7-4ac6-925e-d0ad78bf03d2",
+         "name": "Legendary Panther Range Gloves",
+         "price": 30.00,
+         "ingredients": [
+            "x1 Perfect Gila Monster Skin",
+            "x1 Legendary Panther Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "0c03d9ed-db84-4bd4-abcc-04ce91db1cf0",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "9156bb02-123a-4be2-b8ed-513717521e8c",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "51a15362-be71-4c5d-aa0b-40d92270a7d7",
+   "name": "Goat Hide",
+   "description": "",
+   "trapperItems": [{
+         "id": "c7a4c80a-0117-4094-9b02-87fcd279afcc",
+         "name": "Billy Vest",
+         "price": 32.00,
+         "ingredients": [
+            "x2 Perfect Armadillo Skin",
+            "x1 Perfect Goat Hide"
+         ]
+      },
+      {
+         "id": "dc65b4b3-c6e0-4b44-a082-776a310d8e89",
+         "name": "Workman's Pride Boots",
+         "price": 28.00,
+         "ingredients": [
+            "x1 Perfect Goat Hide",
+            "x1 Perfect Cow Hide"
+         ]
+      },
+      {
+         "id": "f8bac359-8b84-4c6a-955f-b391563f1478",
+         "name": "No-Man's Vest",
+         "price": 27.00,
+         "ingredients": [
+            "x1 Perfect Goat Hide",
+            "x1 Perfect Panther Pelt"
+         ]
+      },
+      {
+         "id": "85a8e278-6ec8-4de7-b62f-8e6238c1e44f",
+         "name": "Goat Flop Hat",
+         "price": 12.00,
+         "ingredients": [
+            "x1 Perfect Goat Hide",
+            "x1 Perfect Pronghorn Hide"
+         ]
+      },
+      {
+         "id": "ab438e52-469f-4022-9f95-edf6688cb9ec",
+         "name": "Rat Infantry Hardee Hat",
+         "price": 17.00,
+         "ingredients": [
+            "x1 Perfect Goat Hide",
+            "x6 Perfect Rat Pelt"
+         ]
+      },
+      {
+         "id": "a9b8e540-0651-49e8-9406-f821c8b5c075",
+         "name": "Legendary Wolf Batwing Chaps",
+         "price": 34.00,
+         "ingredients": [
+            "x1 Perfect Goat Hide",
+            "x1 Legendary Wolf Pelt"
+         ]
+      },
+      {
+         "id": "54c20533-7d0b-4902-b444-327cb37154cd",
+         "name": "Legendary Elk Moccasins",
+         "price": 30.00,
+         "ingredients": [
+            "x1 Legendary Elk Pelt",
+            "x1 Perfect Goat Hide"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "6c16c3c7-d8fb-44bb-86aa-d21398bc6a29",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "b8a0e65c-4ea9-4627-aac1-7d90c8d37382",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "c6733186-c843-4b37-b4bb-6a5d9707118e",
+   "name": "Iguana Skin",
+   "description": "",
+   "trapperItems": [{
+         "id": "cb1f0893-4518-49c2-b663-b846b4992c12",
+         "name": "Iguana Range Gloves",
+         "price": 27.00,
+         "ingredients": [
+            "x2 Perfect Iguana Skin",
+            "x1 Perfect Pig Hide (Collared Peccary)"
+         ]
+      },
+      {
+         "id": "ab8de7f2-66dc-42b0-880b-603157c872ed",
+         "name": "Iguana Big Valley Hat",
+         "price": 14.00,
+         "ingredients": [
+            "x1 Perfect Cow Hide",
+            "x1 Perfect Iguana Skin"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "a447e5ee-75b4-4e10-aa27-a7227d848c03",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "ff3ca80d-97aa-43a1-9ba4-0dfda97e1171",
+      "name": "Materials Satchel",
+      "ingredients": [
+         "x1 Perfect Boar Pelt",
+         "x1 Perfect Deer Pelt",
+         "x1 Perfect Iguana Skin"
+      ]
+   }]
+},
+{
+   "id": "51af67b1-484c-4d5c-b07e-b6357c502a6e",
+   "name": "Moose Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "15f95e87-972d-420f-809e-f80f96b8fc1d",
+         "name": "Moose Range Gloves",
+         "price": 22.00,
+         "ingredients": [
+            "x1 Perfect Moose Pelt"
+         ]
+      },
+      {
+         "id": "0b282c6e-b45b-4be6-ab39-f7df4ccf39d1",
+         "name": "Moose Batwing Chaps",
+         "price": 10.00,
+         "ingredients": [
+            "x1 Perfect Moose Pelt"
+         ]
+      },
+      {
+         "id": "5efa17eb-e393-43aa-acf3-bf07fb6e5b35",
+         "name": "Moose Half Chaps",
+         "price": 10.00,
+         "ingredients": [
+            "x1 Perfect Moose Pelt"
+         ]
+      },
+      {
+         "id": "26830b34-2989-4124-b131-447f68ad8e70",
+         "name": "Legendary Moose Hunting Jacket",
+         "price": 24.00,
+         "ingredients": [
+            "x1 Legendary Moose Pelt",
+            "x1 Perfect Wolf Pelt"
+         ]
+      },
+      {
+         "id": "64c8d7fd-f813-496c-afbe-2b1a14bbdcf9",
+         "name": "Legendary Moose Moccasins",
+         "price": 22.00,
+         "ingredients": [
+            "x1 Perfect Cow Hide",
+            "x1 Legendary Moose Pelt"
+         ]
+      },
+      {
+         "id": "3cbfe72e-4a9d-4331-8dfc-785e1e58647c",
+         "name": "Legendary Pronghorn Coat",
+         "price": 35.00,
+         "ingredients": [
+            "x1 Perfect Moose Pelt",
+            "x1 Legendary Pronghorn Hide"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "168e3150-69f0-4932-8230-f32c7f3c7d5f",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "142f4dce-e216-4156-8827-5be44a22df0c",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "1bd4cd12-6ccd-4471-8239-0671e7583214",
+   "name": "Moose Antler",
+   "description": "",
+   "trapperItems": [{
+      "id": "809c66a6-d3c8-44da-93c1-759c5c65dd82",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "e933abb5-1273-4e77-a55d-67a2a26969d7",
+      "name": "Moose Antler Trinket",
+      "price": 19.00,
+      "ingredients": [
+         "x1 Legendary Moose Antler"
+      ],
+      "effect": "Raises health XP gain by 10%"
+   }],
+   "campItems": [{
+      "id": "839fd064-09c7-497e-8282-33395918551b",
+      "name": "Moose Antler for Main Campfire",
+      "ingredients": [
+         "x1 Moose Antlers"
+      ]
+   }]
+},
+{
+   "id": "4d77d640-533e-4660-89b5-697c6a2d1dd7",
+   "name": "Muskrat Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "7c8a653e-566b-4dbb-8af1-a9846e7cd460",
+         "name": "Muskrat Half Chaps",
+         "price": 5.00,
+         "ingredients": [
+            "x2 Perfect Muskrat Pelt"
+         ]
+      },
+      {
+         "id": "c1de95a2-d981-4d07-8364-789604e575f3",
+         "name": "Winter Cavalry Gloves",
+         "price": 25.00,
+         "ingredients": [
+            "x2 Perfect Muskrat Pelt",
+            "x1 Perfect Rabbit Pelt"
+         ]
+      },
+      {
+         "id": "37bba16f-7266-43ce-a6f6-6c5d8bc102e9",
+         "name": "Grenadier Hat",
+         "price": 24.00,
+         "ingredients": [
+            "x1 Perfect Beaver Pelt",
+            "x1 Perfect Muskrat Pelt"
+         ]
+      },
+      {
+         "id": "62e841ce-747e-4c10-a1f1-3f51cf3513bb",
+         "name": "Muskrat Cavalry Hat",
+         "price": 15.00,
+         "ingredients": [
+            "x1 Perfect Muskrat Pelt",
+            "x4 Perfect Rabbit Pelt"
+         ]
+      },
+      {
+         "id": "264c0146-3dc5-43f1-be93-54cdee622a7d",
+         "name": "Legendary Pronghorn Range Gloves",
+         "price": 17.00,
+         "ingredients": [
+            "x1 Perfect Muskrat Pelt",
+            "x1 Legendary Pronghorn Hide"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "ce02e4de-abde-42c4-a671-1ee652fec836",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "24246cbc-e2ef-4b02-b949-14a00a0dd5d5",
+      "name": "Main Campfire Seat Cover",
+      "ingredients": [
+         "x1 Perfect Beaver Pelt",
+         "x1 Perfect Muskrat Pelt",
+         "x1 Perfect Fox Pelt"
+      ]
+   }]
+},
+{
+   "id": "e46d41ec-7f44-4cbd-be5b-51865cb5a61c",
+   "name": "Opossum Pelt",
+   "description": "",
+   "trapperItems": [{
+      "id": "77914fb8-824a-4b0f-98ef-daf0c02df361",
+      "name": "Pronghorn Flop Hat",
+      "price": 12.00,
+      "ingredients": [
+         "x4 Perfect Opossum Pelt",
+         "x1 Perfect Pronghorn Hide"
+      ]
+   }],
+   "fenceItems": [{
+      "id": "3c15603f-0b9e-44c3-9795-efc8caa75017",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "3070d77b-ef09-4144-9899-acefe98da042",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "2df3b8f2-b248-4399-ba84-74e2623da398",
+   "name": "Ox Hide",
+   "description": "",
+   "trapperItems": [{
+         "id": "2d93b5ca-ae7e-4f50-8171-fc1c61cf85ec",
+         "name": "Boar and Bull Fowler Boots",
+         "price": 31.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Perfect Ox Hide"
+         ]
+      },
+      {
+         "id": "b5839f53-11ed-425e-a882-65429f979ee2",
+         "name": "Coyote Scout Jacket",
+         "price": 20.00,
+         "ingredients": [
+            "x1 Perfect Ox Hide",
+            "x1 Perfect Coyote Pelt"
+         ]
+      },
+      {
+         "id": "baeef47d-18ef-4f8c-9f9a-e1120f227561",
+         "name": "Ox Fringed Shotgun Chaps",
+         "price": 15.00,
+         "ingredients": [
+            "x1 Perfect Ox Hide"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "f01b4fa7-014a-498f-9923-78e29fed1f2f",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "b79dfa64-9b30-4c96-8b52-e65f6adc4189",
+      "name": "Ox Hide Rug For Arthur's Lodging",
+      "ingredients": [
+         "x2 Perfect Ox Hide"
+      ]
+   }]
+},
+{
+   "id": "46151298-dab7-403d-b917-d4700e4b3ebd",
+   "name": "Panther Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "84fb02aa-a6a0-400d-8002-698545b2b84a",
+         "name": "Wilderness Vest",
+         "price": 28.00,
+         "ingredients": [
+            "x1 Perfect Panther Pelt",
+            "x1 Perfect Wolf Pelt"
+         ]
+      },
+      {
+         "id": "1bceb281-cf8d-403b-967a-57cfacfa0600",
+         "name": "No-Man's Vest",
+         "price": 27.00,
+         "ingredients": [
+            "x1 Perfect Panther Pelt",
+            "x1 Perfect Goat Hide"
+         ]
+      },
+      {
+         "id": "ad66b1bf-8094-4943-8abe-b176e413c66b",
+         "name": "Panther Trail Saddle",
+         "price": 102.00,
+         "ingredients": [
+            "x1 Perfect Panther Pelt"
+         ]
+      },
+      {
+         "id": "495278dc-7a46-4b1a-beb7-6f8148b4e2d4",
+         "name": "Legendary Panther Cloak",
+         "price": 45.00,
+         "ingredients": [
+            "x1 Legendary Panther Pelt"
+         ]
+      },
+      {
+         "id": "23131972-8097-4561-9c12-2f8de9823590",
+         "name": "Legendary Panther Range Gloves",
+         "price": 30.00,
+         "ingredients": [
+            "x1 Legendary Panther Pelt",
+            "x1 Perfect Gila Monster Skin"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "48ffb07f-fd50-4f8b-b889-53c6abbf29ed",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "ac3df21d-8cce-4db2-b53b-78e0bd2173b5",
+      "name": "Kit Satchel",
+      "ingredients": [
+         "x1 Perfect Panther Pelt",
+         "x1 Perfect Deer Pelt",
+         "x1 Perfect Elk Pelt"
+      ]
+   }]
+},
+{
+   "id": "6c138c21-35d6-451a-8842-22c42e21afb8",
+   "name": "Panther Eye",
+   "description": "",
+   "trapperItems": [{
+      "id": "46a26d7e-a017-448a-bc0d-e2fcb98ce513",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "037bf048-ae5d-4804-b22c-43a2329290b8",
+      "name": "Panther's Eye Trinket",
+      "price": 24.50,
+      "ingredients": [
+         "Legendary Panther Eye"
+      ],
+      "effect": "Lowers drain rate of Dead Eye core by 10% for 3 seconds"
+   }],
+   "campItems": [{
+      "id": "645db9d1-d6cd-48df-b979-edc828b78513",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "5d7afcbf-775d-44f3-8eb2-00a1a1c5f5cd",
+   "name": "Pig Hide",
+   "description": "",
+   "trapperItems": [{
+         "id": "411def89-4964-41ca-aa3a-e55debe9e156",
+         "name": "Pigskin Rifleman Gloves",
+         "price": 8.00,
+         "ingredients": [
+            "x1 Perfect Pig Hide"
+         ]
+      },
+      {
+         "id": "2f5d95d6-9e36-48af-a8f7-0fb3d92d44c2",
+         "name": "Javeline Moccasins",
+         "price": 33.00,
+         "ingredients": [
+            "x2 Perfect Pig Hide (Collared Peccary)"
+         ]
+      },
+      {
+         "id": "3c5666b3-1146-461a-bc8e-1bf53085a0d0",
+         "name": "Iguana Range Gloves",
+         "price": 27.00,
+         "ingredients": [
+            "x2 Perfect Iguana Skin",
+            "x1 Perfect Pig Hide (Collared Peccary)"
+         ]
+      },
+      {
+         "id": "9eaa3928-38fc-4283-bb71-b58f91a5cf7b",
+         "name": "Rugged Wrangler Vest",
+         "price": 23.00,
+         "ingredients": [
+            "x1 Perfect Pig Hide"
+         ]
+      },
+      {
+         "id": "85c0e97f-569b-4610-b042-91648483544a",
+         "name": "Javelina Half Chaps",
+         "price": 18.00,
+         "ingredients": [
+            "x1 Perfect Pig Hide (Collared Peccary)",
+            "x1 Perfect Snake Skin"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "422eec1d-39b1-4de3-aa3e-fa2fe9ddc1c6",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "8d02124d-d9e2-49de-967c-2464b0cb4dc5",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "9ab80cfc-8042-4879-b28a-ad87fa7209b3",
+   "name": "Pronghorn Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "7133dadd-f09c-4a02-974a-15cb74f3e431",
+         "name": "Goat Flop Hat",
+         "price": 12.00,
+         "ingredients": [
+            "x1 Perfect Goat Hide",
+            "x1 Perfect Pronghorn Hide"
+         ]
+      },
+      {
+         "id": "a109bbb7-b73b-4f1e-bf87-726b38d77a29",
+         "name": "Legendary Pronghorn Coat",
+         "price": 35.00,
+         "ingredients": [
+            "x1 Perfect Moose Pelt",
+            "x1 Legendary Pronghorn Hide"
+         ]
+      },
+      {
+         "id": "fa933ba3-7587-4e23-a9fc-6700c9f2331f",
+         "name": "Legendary Pronghorn Range Gloves",
+         "price": 17.00,
+         "ingredients": [
+            "x1 Perfect Muskrat Pelt",
+            "x1 Legendary Pronghorn Hide"
+         ]
+      },
+      {
+         "id": "9c200651-879b-414b-8ed2-04624f745143",
+         "name": "Pronghorn Flop Hat",
+         "price": 12.00,
+         "ingredients": [
+            "x4 Perfect Opossum Pelt",
+            "x1 Perfect Pronghorn Hide"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "feaafa3a-c6aa-4cef-ab62-72521fb789bf",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "0a075cd5-f2f5-424d-9f41-66666ffc05b5",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "f4c31fed-cc67-4eb7-807e-2ff6e9736967",
+   "name": "Rabbit Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "6e3e5704-5410-4fa1-ba7b-1d9425874ac3",
+         "name": "Winter Cavalry Gloves",
+         "price": 25.00,
+         "ingredients": [
+            "x2 Perfect Muskrat Pelt",
+            "x1 Perfect Rabbit Pelt"
+         ]
+      },
+      {
+         "id": "49bf48ea-df0f-43c4-80b3-c980592e428b",
+         "name": "Boar Riding Gloves",
+         "price": 15.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x2 Perfect Rabbit Pelt"
+         ]
+      },
+      {
+         "id": "8b5e83ee-7e7d-420c-9073-8c438c3ecab2",
+         "name": "Muskrat Cavalry Hat",
+         "price": 15.00,
+         "ingredients": [
+            "x1 Perfect Muskrat Pelt",
+            "x4 Perfect Rabbit Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "81e72fb2-dd0d-4a46-a4b0-f7f871bfdda3",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "775393e4-ec32-4326-a13b-cd5ec575d3c9",
+      "name": "Valuables Satchel",
+      "ingredients": [
+         "x1 Perfect Beaver Pelt",
+         "x1 Perfect Deer Pelt",
+         "x1 Perfect Rabbit Pelt"
+      ]
+   }]
+},
+{
+   "id": "1620be7d-7688-4c0c-9970-3f52384fb47d",
+   "name": "Raccoon Pelt",
+   "description": "",
+   "trapperItems": [{
+      "id": "a7711800-9c51-4a37-80b3-143e9b7f26a9",
+      "name": "Raccoon Mountain Hat",
+      "price": 21.00,
+      "ingredients": [
+         "x1 Perfect Beaver Pelt",
+         "x1 Perfect Raccoon Pelt",
+         "x2 Hawk Feather"
+      ]
+   }],
+   "fenceItems": [{
+      "id": "a83a2b08-d518-4b65-9df4-5c6f50db9299",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "d37177b9-c204-4c7e-8757-4f41d30a95c9",
+      "name": "Provisions Satchel",
+      "ingredients": [
+         "x1 Perfect Bison Pelt",
+         "x1 Perfect Deer Pelt",
+         "x1 Perfect Raccoon Pelt"
+      ]
+   }]
+},
+{
+   "id": "b943e6b4-d6e2-4b45-a93a-3f0639e22a87",
+   "name": "Ram Hide",
+   "description": "",
+   "trapperItems": [{
+         "id": "cf073978-efad-4d68-a47e-6fce3fdb43d2",
+         "name": "Ram Shotgun Coat",
+         "price": 45.00,
+         "ingredients": [
+            "x2 Perfect Ram Hide"
+         ]
+      },
+      {
+         "id": "680a6d38-37fd-4cea-a534-acc550fb2bf6",
+         "name": "Ram Sombrero",
+         "price": 10.00,
+         "ingredients": [
+            "x1 Perfect Ram Hide"
+         ]
+      },
+      {
+         "id": "6561d720-a4a8-431b-ac3c-3d4b9cd5de08",
+         "name": "Hinterland Vest",
+         "price": 21.00,
+         "ingredients": [
+            "x1 Perfect Ram Hide"
+         ]
+      },
+      {
+         "id": "4d39b2ea-8a7a-4373-be10-b5b86c70454c",
+         "name": "Wolf Coat",
+         "price": 25.00,
+         "ingredients": [
+            "x1 Perfect Ram Hide",
+            "x1 Perfect Wolf Pelt"
+         ]
+      },
+      {
+         "id": "8f76efa1-f2c6-4bf3-a6eb-fcb745cf1289",
+         "name": "Legendary Ram Batwing Chaps",
+         "price": 33.00,
+         "ingredients": [
+            "x1 Legendary Ram Hide"
+         ]
+      },
+      {
+         "id": "039c0987-194b-47d2-b29c-65aeb5c2e973",
+         "name": "Legendary Ram Rifleman Gloves",
+         "price": 12.00,
+         "ingredients": [
+            "x1 Perfect Boar Pelt",
+            "x1 Legendary Ram Hide"
+         ]
+      },
+      {
+         "id": "a27d9957-d575-4311-94be-9d86fb759f79",
+         "name": "Legendary Ram Hat",
+         "price": 17.00,
+         "ingredients": [
+            "x1 Legendary Ram Hide"
+         ]
+      },
+      {
+         "id": "e97036a6-1784-400e-94f4-10d33f1718d3",
+         "name": "Legendary Buck Vest",
+         "price": 26.00,
+         "ingredients": [
+            "x1 Legendary Buck Pelt",
+            "x1 Perfect Ram Hide"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "7decb7f0-14d6-45d2-91ef-ec589db8082b",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "d451977c-fae3-4f8a-9d22-042393d5a640",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "20a58b05-be8f-41a6-9f7b-215679be11b0",
+   "name": "Ram Horn",
+   "description": "",
+   "trapperItems": [{
+      "id": "a00edb0b-590e-4325-9a48-4f1cbe0ee0e7",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "141cbe07-4b55-4447-85cd-906546cb0b85",
+      "name": "Ram Horn Trinket",
+      "price": 17.50,
+      "ingredients": [
+         "x1 Legendary Ram Horn"
+      ],
+      "effect": "Doubles the amount of herbs gathered from wild mint, oregano, and creeping thyme"
+   }],
+   "campItems": [{
+      "id": "331fc1df-d783-4515-b2d7-7a0b183c2d80",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "2d23a288-5c41-46b5-b249-bdb54e192c54",
+   "name": "Ram Carcass",
+   "description": "",
+   "trapperItems": [{
+      "id": "82242d0b-b922-4bd5-b9a4-2ed5b9312456",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "190fbe64-26a1-405d-acfe-4b9e8200680d",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "582d2392-b0c1-400c-9334-c3371ddc8004",
+      "name": "Bighorn Ram Skull for Arthur's Lodging",
+      "ingredients": [
+         "x1 Perfect Ram Carcass"
+      ]
+   }]
+},
+{
+   "id": "45c109b9-92ea-4c7c-bf27-c00a0d0286e3",
+   "name": "Rat Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "6f8b4e5f-7fda-4f68-b490-83dbe7f17cd5",
+         "name": "Rat Infantry Hardee Hat",
+         "price": 17.00,
+         "ingredients": [
+            "x1 Perfect Goat Hide",
+            "x6 Perfect Rat Pelt"
+         ]
+      },
+      {
+         "id": "15e3720f-9760-4888-8aeb-e8f04e9c91c2",
+         "name": "Rat Flat Cap",
+         "price": 12.00,
+         "ingredients": [
+            "x10 Perfect Rat Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "5840060b-2e01-44ba-b571-e1e9fae1323d",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "8dfc49f7-a1f0-4409-aeb4-89db8de101b7",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "7cde6f0c-95cb-4eca-ae85-e104b40f6858",
+   "name": "Sheep Hide",
+   "description": "",
+   "trapperItems": [{
+         "id": "c17eda93-4a9e-4c64-ad00-5b73bba805e3",
+         "name": "Sheep Batwing Chaps",
+         "price": 35.00,
+         "ingredients": [
+            "x2 Perfect Sheep Hide"
+         ]
+      },
+      {
+         "id": "aca9b033-c912-44e3-8b26-fe85b4ec0132",
+         "name": "Sheepskin Vest",
+         "price": 20.00,
+         "ingredients": [
+            "x2 Perfect Sheep Hide"
+         ]
+      },
+      {
+         "id": "ea6d3eb7-5fbd-4ecf-97ec-fba298518bc4",
+         "name": "Trapper's Cloak",
+         "price": 32.00,
+         "ingredients": [
+            "x1 Perfect Sheep Hide"
+         ]
+      },
+      {
+         "id": "21f8477b-96f5-4dd0-b2ea-4fefb4640e1a",
+         "name": "Huntsman Vest",
+         "price": 25.00,
+         "ingredients": [
+            "x1 Perfect Deer Pelt",
+            "x1 Perfect Sheep Hide"
+         ]
+      },
+      {
+         "id": "729af531-4902-40f3-baa2-fa0d9513b5de",
+         "name": "Snake Bulldogger Hat",
+         "price": 23.00,
+         "ingredients": [
+            "x1 Perfect Sheep Hide",
+            "x1 Perfect Snake Skin"
+         ]
+      },
+      {
+         "id": "d9d7cb60-46b2-4542-ac9d-11063418e443",
+         "name": "Legendary Elk Half Chaps",
+         "price": 16.00,
+         "ingredients": [
+            "x1 Legendary Elk Pelt",
+            "x1 Perfect Sheep Hide"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "4fc11c33-c21d-4c6c-a7dd-577352ddc710",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "6ae6957a-5bee-41ca-b623-8edfe11586fb",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "cf3179e2-ba1d-401b-9065-8fa5c42b3626",
+   "name": "Skunk Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "14b13fc3-bff1-46fd-9a50-78c1cb5e8070",
+         "name": "Skunk Trapper Boots",
+         "price": 39.00,
+         "ingredients": [
+            "x2 Perfect Skunk Pelt"
+         ]
+      },
+      {
+         "id": "df63a6ec-b2cb-4034-938e-66ad6167c4ba",
+         "name": "Skunk Mountain Hat",
+         "price": 23.00,
+         "ingredients": [
+            "x1 Perfect Skunk Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "be3693cf-87cc-445e-9466-b782f7d8cd13",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "02c8e7de-d878-4cde-855a-e10743197133",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "e8002a66-a6f5-4eb5-b3f6-de7aad279164",
+   "name": "Snake Skin",
+   "description": "",
+   "trapperItems": [{
+         "id": "f6dd9b07-65d5-49a1-b21d-e245ea9ae312",
+         "name": "Snake Skin Cavalry Gloves",
+         "price": 26.00,
+         "ingredients": [
+            "x1 Perfect Snake Skin",
+            "x1 Perfect Boar Pelt"
+         ]
+      },
+      {
+         "id": "da7a3976-1636-42bb-bf80-36d29b9af2c8",
+         "name": "Snake Bulldogger Hat",
+         "price": 23.00,
+         "ingredients": [
+            "x1 Perfect Snake Skin",
+            "x1 Perfect Sheep Hide"
+         ]
+      },
+      {
+         "id": "3cf3a531-bf0f-434b-baf8-6e0747127407",
+         "name": "Rattlesnake Vaquero Saddle",
+         "price": 120.00,
+         "ingredients": [
+            "x10 Perfect Snake Skin"
+         ]
+      },
+      {
+         "id": "3b7400cf-7a2b-46d3-8b16-d399394c4c2b",
+         "name": "Javelina Half Chaps",
+         "price": 18.00,
+         "ingredients": [
+            "x1 Perfect Pig Hide (Collared Peccary)",
+            "x1 Perfect Snake Skin"
+         ]
+      },
+      {
+         "id": "d534a6d5-2afa-46dd-b858-6d3aadeaf58f",
+         "name": "Legendary Alligator Gambler's Hat",
+         "price": 22.00,
+         "ingredients": [
+            "x2 Perfect Snake Skin",
+            "x1 Legendary Alligator Skin"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "ce3860e2-197f-40d8-a5bc-3e2b6938eb1d",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "af952f1e-3155-4494-8efd-5d17fae83b5e",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "84c3801a-bd74-4b8f-b427-41165fd86547",
+   "name": "Squirrel Pelt",
+   "description": "",
+   "trapperItems": [{
+      "id": "f7a3766c-863e-450f-a73e-20ea48b61159",
+      "name": "Squirrel Flat Cap",
+      "price": 16.00,
+      "ingredients": [
+         "x6 Perfect Squirrel Pelt"
+      ]
+   }],
+   "fenceItems": [{
+      "id": "3d840721-54a8-413d-bee9-4f270d6f95d7",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "cdff7786-53e6-486e-93af-c63b34ccd36c",
+      "name": "Ingredients Satchel",
+      "ingredients": [
+         "x1 Perfect Badger Pelt",
+         "x1 Perfect Deer Pelt",
+         "x1 Perfect Squirrel Pelt"
+      ]
+   }]
+},
+{
+   "id": "1888640c-bc97-4bfb-b41c-ad706adf2164",
+   "name": "Wolf Pelt",
+   "description": "",
+   "trapperItems": [{
+         "id": "b18f398d-15f5-431e-acef-552615ee1ba8",
+         "name": "Wolf Coat",
+         "price": 25.00,
+         "ingredients": [
+            "x1 Perfect Wolf Pelt",
+            "x1 Perfect Ram Hide"
+         ]
+      },
+      {
+         "id": "d1518dbc-ccf0-429f-b400-b6da344da152",
+         "name": "Wilderness Vest",
+         "price": 28.00,
+         "ingredients": [
+            "x1 Perfect Wolf Pelt",
+            "x1 Perfect Panther Pelt"
+         ]
+      },
+      {
+         "id": "6ae657f3-77a5-4510-8fd1-06ddf10bbbd6",
+         "name": "Legendary Wolf / Cougar Vest",
+         "price": 42.00,
+         "ingredients": [
+            "x1 Legendary Wolf Pelt",
+            "x1 Legendary Cougar Pelt"
+         ]
+      },
+      {
+         "id": "99957444-26ee-4a4b-8a83-94e9bff1e3ac",
+         "name": "Legendary Wolf Batwing Chaps",
+         "price": 34.00,
+         "ingredients": [
+            "x1 Legendary Wolf Pelt",
+            "x1 Perfect Goat Hide"
+         ]
+      },
+      {
+         "id": "0883f704-0ba0-447e-9533-d42d91ff364a",
+         "name": "Legendary Moose Hunting Jacket",
+         "price": 24.00,
+         "ingredients": [
+            "x1 Perfect Wolf Pelt",
+            "x1 Legendary Moose Pelt"
+         ]
+      }
+   ],
+   "fenceItems": [{
+      "id": "2e0fac4c-77ab-4af1-965c-e08a00ca2166",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+         "id": "811a5d6b-5ed9-4d69-8e1e-36169ccdd8a3",
+         "name": "Campfire Log Seat Cover for Main Campfire",
+         "ingredients": [
+            "x2 Perfect Wolf Carcass"
+         ]
+      },
+      {
+         "id": "f4f67dd6-9a4f-48f1-9723-1c842df86c51",
+         "name": "Legend of the East Satchel",
+         "ingredients": [
+            "x1 Perfect Wolf Pelt",
+            "x1 Perfect Cougar Pelt",
+            "x1 Perfect Deer Pelt"
+         ]
+      }
+   ]
+},
+{
+   "id": "1aa0ff6b-e3cb-4dc0-a6b2-1a2f01f6e8a5",
+   "name": "Wolf Heart",
+   "description": "",
+   "trapperItems": [{
+      "id": "48441aef-29a8-4323-b041-ff4776fb4543",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "386205b2-6f5b-4505-a0e7-5f815583ef5d",
+      "name": "Wolf Heart Trinket",
+      "price": 16.00,
+      "ingredients": [
+         "x1 Legendary Wolf Heart"
+      ],
+      "effect": "Doubles players tolerance to alcohol"
+   }],
+   "campItems": [{
+      "id": "4ab0dcf7-d74b-47da-931e-47e41b020772",
+      "name": "",
+      "ingredients": [
+         ""
+      ]
+   }]
+},
+{
+   "id": "3c8f916f-c5a8-48fa-9f63-ca366e1b7757",
+   "name": "Wolf Carcass",
+   "description": "",
+   "trapperItems": [{
+      "id": "e49e012a-83a8-4e35-b8f4-9e3e662d8325",
+      "name": "",
+      "price": 0.00,
+      "ingredients": [
+         ""
+      ]
+   }],
+   "fenceItems": [{
+      "id": "9ab738a4-91f7-428e-8475-c3bfdc74426c",
+      "name": "",
+      "price": 0.0,
+      "ingredients": [
+         ""
+      ],
+      "effect": ""
+   }],
+   "campItems": [{
+      "id": "b3afa08d-6a57-495e-b7a9-bd972d961590",
+      "name": "Wolf Skull for Main Campfire",
+      "ingredients": [
+         "x1 Perfect Wolf Carcass"
+      ]
+}]}]

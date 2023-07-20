@@ -107,8 +107,8 @@ struct PeltDetail: View {
                                     Spacer()
                                 }
                                 ForEach(pelt.fenceItems[i].ingredients, id: \.self) { ingredient in
-                                    Text("  -"+ingredient)
-                                        .padding(.bottom, paddingAmount)
+                                    Text("  - "+ingredient)
+                                        //.padding(.bottom, paddingAmount)
                                 }
                                 if i != pelt.fenceItems.count - 1 {
                                     Divider()
@@ -132,8 +132,8 @@ struct PeltDetail: View {
                                 
                                     .padding(.bottom, paddingAmount)
                                 ForEach(pelt.campItems[i].ingredients, id: \.self) { ingredient in
-                                    Text("  -"+ingredient)
-                                        .padding(.bottom, paddingAmount)
+                                    Text("  - "+ingredient)
+                                       // .padding(.bottom, paddingAmount)
                                 }
                                 if i != pelt.campItems.count - 1 {
                                     Divider()

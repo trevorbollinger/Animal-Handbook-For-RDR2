@@ -11,12 +11,14 @@ struct AnimalsView: View {
     @State var animals: [Animal]
     @State var pelts: [Pelt]
     
+    @State private var searchText = ""
+    
     var body: some View {
         NavigationStack {
             List {
-                ForEach(animals) { animal in
+                ForEach(searchResults, id: \.self) { animal in
                     NavigationLink {
-                    AnimalDetail(animal: animal, pelts: pelts)
+                        AnimalDetail(animal: animal, pelts: pelts)
                     } label: {
                         AnimalRow(animal: animal)
                     }
@@ -24,7 +26,16 @@ struct AnimalsView: View {
             }
             .navigationTitle("Animals")
         }
+        .searchable(text: $searchText)
     }
+    
+    var searchResults: [Animal] {
+        if searchText.isEmpty {
+            return animals
+        } else {
+            return animals.filter { $0.name.localizedCaseInsensitiveContains(searchText) } }
+    }
+    
 }
 //
 //struct ContentView_Previews: PreviewProvider {
