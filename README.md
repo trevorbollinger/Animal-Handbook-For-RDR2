@@ -4,6 +4,7 @@ A comprehensive guide to all animals in Red Dead Redemption 2, helping players t
 
 ## Features
 
+- Apps for iOS, iPadOS, tvOS, and macOS
 - Complete database of RDR2 animals
 - Detailed information about each species
 - Hunting tips and strategies
@@ -19,10 +20,6 @@ Browse through the handbook to find:
 - Best hunting practices
 - Perfect pelt requirements
 
-## License
-
-This project is released as open-source software under the MIT License.
-[View the full MIT License](LICENSE)
 
 ## Acknowledgments
 
