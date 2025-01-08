@@ -3,10 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		34599F7D2C1B5369007039A7 /* Tabs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34599F7C2C1B5369007039A7 /* Tabs.swift */; };
 		B934FF1B29661ACB005E2E89 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = B934FF1A29661ACB005E2E89 /* Animal.swift */; };
 		B934FF1D29661B15005E2E89 /* JSONDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = B934FF1C29661B15005E2E89 /* JSONDecoder.swift */; };
 		B9537914296FC1B800D12290 /* LootItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9537913296FC1B800D12290 /* LootItem.swift */; };
@@ -16,7 +17,6 @@
 		B97AD750296621BC00D2BE2F /* PeltDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97AD74F296621BC00D2BE2F /* PeltDetail.swift */; };
 		B97AD7522966222200D2BE2F /* Pelt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97AD7512966222200D2BE2F /* Pelt.swift */; };
 		B98449DF2985C24000004884 /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98449DE2985C24000004884 /* CreditsView.swift */; };
-		B9C534D72963AAC80091883A /* Animal_HandbookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C534D62963AAC80091883A /* Animal_HandbookApp.swift */; };
 		B9C534D92963AAC80091883A /* AnimalsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C534D82963AAC80091883A /* AnimalsView.swift */; };
 		B9C534DB2963AACB0091883A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9C534DA2963AACB0091883A /* Assets.xcassets */; };
 		B9C534DE2963AACB0091883A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9C534DD2963AACB0091883A /* Preview Assets.xcassets */; };
@@ -28,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		34599F7C2C1B5369007039A7 /* Tabs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabs.swift; sourceTree = "<group>"; };
 		B934FF1A29661ACB005E2E89 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 		B934FF1C29661B15005E2E89 /* JSONDecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONDecoder.swift; sourceTree = "<group>"; };
 		B9537913296FC1B800D12290 /* LootItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LootItem.swift; sourceTree = "<group>"; };
@@ -38,7 +39,6 @@
 		B97AD7512966222200D2BE2F /* Pelt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pelt.swift; sourceTree = "<group>"; };
 		B98449DE2985C24000004884 /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
 		B9C534D32963AAC80091883A /* Animal Handbook for RDR2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Animal Handbook for RDR2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B9C534D62963AAC80091883A /* Animal_HandbookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal_HandbookApp.swift; sourceTree = "<group>"; };
 		B9C534D82963AAC80091883A /* AnimalsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalsView.swift; sourceTree = "<group>"; };
 		B9C534DA2963AACB0091883A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B9C534DD2963AACB0091883A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -49,6 +49,21 @@
 		B9DE47BC296A706900945556 /* Animal-Handbook-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Animal-Handbook-Info.plist"; sourceTree = SOURCE_ROOT; };
 		B9DE47E2296C97AA00945556 /* chinese rocks free.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "chinese rocks free.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		34599F802C1B5440007039A7 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Animal_HandbookApp.swift,
+				DestinationTabs.swift,
+			);
+			target = B9C534D22963AAC80091883A /* Animal Handbook for RDR2 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		34599F7F2C1B5438007039A7 /* TopLevel */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (34599F802C1B5440007039A7 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = TopLevel; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		B9C534D02963AAC80091883A /* Frameworks */ = {
@@ -81,8 +96,8 @@
 		B9C534D52963AAC80091883A /* Animal Handbook */ = {
 			isa = PBXGroup;
 			children = (
+				34599F7F2C1B5438007039A7 /* TopLevel */,
 				B9DE47BC296A706900945556 /* Animal-Handbook-Info.plist */,
-				B9C534D62963AAC80091883A /* Animal_HandbookApp.swift */,
 				B9C534E52963AB460091883A /* views */,
 				B9C534E92963AB880091883A /* functions */,
 				B9C534E42963AB340091883A /* resources */,
@@ -148,6 +163,7 @@
 				B934FF1A29661ACB005E2E89 /* Animal.swift */,
 				B97AD7512966222200D2BE2F /* Pelt.swift */,
 				B934FF1C29661B15005E2E89 /* JSONDecoder.swift */,
+				34599F7C2C1B5369007039A7 /* Tabs.swift */,
 			);
 			path = functions;
 			sourceTree = "<group>";
@@ -180,7 +196,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1410;
-				LastUpgradeCheck = 1410;
+				LastUpgradeCheck = 1620;
 				TargetAttributes = {
 					B9C534D22963AAC80091883A = {
 						CreatedOnToolsVersion = 14.1;
@@ -232,9 +248,9 @@
 				B9C534D92963AAC80091883A /* AnimalsView.swift in Sources */,
 				B9C534F92963B6140091883A /* AnimalRow.swift in Sources */,
 				B934FF1D29661B15005E2E89 /* JSONDecoder.swift in Sources */,
+				34599F7D2C1B5369007039A7 /* Tabs.swift in Sources */,
 				B97AD7522966222200D2BE2F /* Pelt.swift in Sources */,
 				B98449DF2985C24000004884 /* CreditsView.swift in Sources */,
-				B9C534D72963AAC80091883A /* Animal_HandbookApp.swift in Sources */,
 				B97AD750296621BC00D2BE2F /* PeltDetail.swift in Sources */,
 				B9C534EB2963B06F0091883A /* PeltsView.swift in Sources */,
 				B934FF1B29661ACB005E2E89 /* Animal.swift in Sources */,
@@ -280,6 +296,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -340,6 +357,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -363,7 +381,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Animal Handbook/resources/Preview Content\"";
@@ -379,17 +397,24 @@
 				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.boli.rdr2handbook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SUPPORTED_PLATFORMS = "appletvos appletvsimulator iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,3";
+				TVOS_DEPLOYMENT_TARGET = 18.0;
 			};
 			name = Debug;
 		};
@@ -398,7 +423,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Animal Handbook/resources/Preview Content\"";
@@ -414,17 +439,24 @@
 				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.boli.rdr2handbook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SUPPORTED_PLATFORMS = "appletvos appletvsimulator iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,3";
+				TVOS_DEPLOYMENT_TARGET = 18.0;
 			};
 			name = Release;
 		};

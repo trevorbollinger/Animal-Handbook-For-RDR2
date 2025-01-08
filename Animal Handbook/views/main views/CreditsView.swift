@@ -1,25 +1,19 @@
-//
-//  CreditsView.swift
-//  Animal Handbook for RDR2
-//
-//  Created by Trevor Bollinger on 1/28/23.
-//
-
 import SwiftUI
 
 struct CreditsView: View {
+    @Environment(\.openURL) private var openURL
     
     let VERSION = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String
     let BUILD = Bundle.main.infoDictionary?["CFBundleVersion"] as? String
 
-    
     var body: some View {
-        NavigationView {
-            
-            //THANKU
+        NavigationStack {
             VStack {
                 Spacer()
-                Image("icon").resizable().frame(width: 175.0, height: 175.0).cornerRadius(30)
+                Image("icon")
+                    .resizable()
+                    .frame(width: 175.0, height: 175.0)
+                    .cornerRadius(30)
                 Spacer()
                 Text("Thank you for downloading Wildlife Handbook for RDR2!")
                     .font(.title)
@@ -28,7 +22,6 @@ struct CreditsView: View {
                     .padding(.vertical, 5)
                 Spacer()
                 
-                //CREDIT
                 VStack {
                     Text("Information used in this app was sourced from:")
                         .font(.headline)
@@ -41,17 +34,32 @@ struct CreditsView: View {
                         .bold()
                         .padding(.vertical, 5)
                     Divider()
-                    Text("Red Dead Wiki on Fandom ( reddead.fandom.com )")
-                        .font(.subheadline)
-                        .multilineTextAlignment(.center)
-                        .bold()
-                        .padding(.vertical, 5)
-
+                    HStack {
+                        Text("Red Dead Wiki on Fandom (")
+                            .font(.subheadline)
+                            .multilineTextAlignment(.center)
+                            .bold()
+                        Text("reddead.fandom.com")
+                            .font(.subheadline)
+                            .multilineTextAlignment(.center)
+                            .bold()
+                            .foregroundColor(.blue)
+                            .underline()
+                            .onTapGesture {
+                                if let url = URL(string: "https://reddead.fandom.com") {
+                                    openURL(url)
+                                }
+                            }
+                        Text(")")
+                            .font(.subheadline)
+                            .multilineTextAlignment(.center)
+                            .bold()
+                    }
+                    .padding(.vertical, 5)
                 }
-                .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+                .padding(.all)
                 Spacer()
                 
-                //EMAIL
                 VStack {
                     Text("If you run into any problems or errors, feel free to shoot me an email at")
                         .font(.headline)
@@ -65,15 +73,12 @@ struct CreditsView: View {
                 }
                 Spacer()
                 
-                //VERSION
-                VStack{
+                VStack {
                     Text("Wildlife Handbook for RDR2\nVersion " + "'\(String(describing: VERSION))' \nBuild " + "'\(String(describing: BUILD))'")
                         .font(.caption)
                         .multilineTextAlignment(.center)
                         .padding(.top, 10)
                 }
-                
-                
             }
             .padding(.horizontal, 35.0)
         }

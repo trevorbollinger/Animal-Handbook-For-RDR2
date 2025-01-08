@@ -18,8 +18,10 @@ struct AnimalRow: View {
     }
 }
 
-//struct AnimalRow_Previews: PreviewProvider {
-//    static var previews: some View {
-//        AnimalRow(animal: Animal.example)
-//    }
-//}
+struct AnimalRow_Previews: PreviewProvider {
+    static var previews: some View {
+        let exampleAnimal = Animal.example1 // Using example1 from your provided data
+        return AnimalRow(animal: exampleAnimal)
+            .previewLayout(.sizeThatFits)
+    }
+}

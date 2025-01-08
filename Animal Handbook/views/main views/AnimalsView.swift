@@ -16,7 +16,7 @@ struct AnimalsView: View {
     var body: some View {
         NavigationStack {
             List {
-                ForEach(searchResults, id: \.self) { animal in
+                ForEach(searchResults, id: \.id) { animal in
                     NavigationLink {
                         AnimalDetail(animal: animal, pelts: pelts)
                     } label: {
@@ -24,7 +24,8 @@ struct AnimalsView: View {
                     }
                 }
             }
-            .navigationTitle("Animals")
+            .navigationTitle(Tabs.animals.name)
+
         }
         .searchable(text: $searchText)
     }
@@ -33,13 +34,14 @@ struct AnimalsView: View {
         if searchText.isEmpty {
             return animals
         } else {
-            return animals.filter { $0.name.localizedCaseInsensitiveContains(searchText) } }
+            return animals.filter { $0.name.localizedCaseInsensitiveContains(searchText) }
+        }
     }
-    
 }
-//
-//struct ContentView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        AnimalsView(animals: Animal.exampleList, pelts: Pelt.exampleList)
-//    }
-//}
+
+
+struct AnimalsView_Previews: PreviewProvider {
+    static var previews: some View {
+        AnimalsView(animals: Animal.exampleList, pelts: Pelt.exampleList)
+    }
+}

@@ -6,7 +6,7 @@
 //
 
 
-import UIKit
+import SwiftUI
 
 extension Bundle {
     func decode<T: Decodable>(_ type: T.Type, from file: String) -> T {

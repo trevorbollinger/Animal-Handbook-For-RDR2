@@ -24,11 +24,19 @@ struct Pelt: Codable, Hashable, Identifiable {
     }
     
 #if DEBUG
-    static let example = Pelt(id: UUID(), name: "Alligator Skin", description: "", trapperItems: [TrapperItem.example, TrapperItem.example2], fenceItems: [FenceItem.example], campItems: [CampItem.example])
+    static let example1 = Pelt(id: UUID(), name: "Alligator Skin", description: "Tough skin used for crafting sturdy items.", trapperItems: [TrapperItem.example, TrapperItem.example2], fenceItems: [FenceItem.example], campItems: [CampItem.example])
     
-    static let exampleList = [example, example, example]
+    static let example2 = Pelt(id: UUID(), name: "Cougar Pelt", description: "A perfect cougar pelt can be sold or used to craft various items.", trapperItems: [TrapperItem.example], fenceItems: [FenceItem.example], campItems: [CampItem.example])
     
+    static let example3 = Pelt(id: UUID(), name: "Deer Pelt", description: "Deer pelts are common and can be used for crafting basic items.", trapperItems: [TrapperItem.example], fenceItems: [FenceItem.example], campItems: [CampItem.example])
+    
+    static let example4 = Pelt(id: UUID(), name: "Wolf Pelt", description: "A pristine wolf pelt is valuable and used for crafting.", trapperItems: [TrapperItem.example], fenceItems: [FenceItem.example], campItems: [CampItem.example])
+    
+    static let example5 = Pelt(id: UUID(), name: "Bison Pelt", description: "Bison pelts are large and sturdy, perfect for crafting heavy-duty items.", trapperItems: [TrapperItem.example], fenceItems: [FenceItem.example], campItems: [CampItem.example])
+    
+    static let exampleList = [example1, example2, example3, example4, example5]
 #endif
+
 }
 
 struct TrapperItem: Codable, Hashable, Identifiable {

@@ -24,7 +24,7 @@ struct PeltsView: View {
                     }
                 }
             }
-            .navigationTitle("Pelts")
+            .navigationTitle(Tabs.pelts.name)
         }
         .searchable(text: $searchText)
     }
@@ -39,8 +39,8 @@ struct PeltsView: View {
 }
 
 
-//struct PeltsView_Preview: PreviewProvider {
-//    static var previews: some View {
-//        PeltsView(animals: Animal.exampleList, pelts: Pelt.exampleList)
-//    }
-//}
+struct PeltsView_Preview: PreviewProvider {
+    static var previews: some View {
+        PeltsView(animals: Animal.exampleList, pelts: Pelt.exampleList)
+    }
+}

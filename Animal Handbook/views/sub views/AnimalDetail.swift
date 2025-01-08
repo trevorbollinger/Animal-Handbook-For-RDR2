@@ -1,292 +1,279 @@
-//
-//  AnimalDetail.swift
-//  Hunting Handbook
-//
-//  Created by Trevor Bollinger on 1/2/23.
-//
-
 import SwiftUI
 
 struct AnimalDetail: View {
-    
     let animal: Animal
     let pelts: [Pelt]
-    
     @State private var presentedPelt: Pelt? = nil
     
-    let paddingAmount = 3.0
+    private let sectionSpacing: CGFloat = 3.0
     
     var body: some View {
-        ScrollView {
+        #if os(tvOS)
+        HStack(spacing: 32) {
+            // Left side - Image
+            Image(animal.mainImage)
+                .resizable()
+                .scaledToFit()
+                .frame(maxWidth: UIScreen.main.bounds.width * 0.45)
             
-            Image(animal.mainImage).resizable().scaledToFit()
-            
-            VStack(alignment: .leading) {
-                
-                //Description
-                if animal.description != "" {
-                    VStack(alignment: .leading) {
-                        //title
-                        HStack(alignment: .center) {
-                            Image(systemName: "newspaper")
-                                .bold()
-                                .font(.headline)
-                            
-                            Text("Description")
-                                .font(.title)
-                                .bold()
-                                .padding(.top, paddingAmount)
-                                .padding(.bottom, paddingAmount)
-                            
-                            Spacer()
-                            
-                            if animal.danger == "5" {
-                                Image(systemName: "hazardsign.fill")
-                            }
+            // Right side - Information
+            ScrollView {
+                VStack(alignment: .leading, spacing: 24) {
+                    // Description Section
+                    if !animal.description.isEmpty {
+                        InfoSection(
+                            icon: "newspaper",
+                            title: "Description",
+                            showDanger: animal.danger == "5"
+                        ) {
+                            Text(animal.description)
+                                .font(.title2)
                         }
-                        //body
-                        Text(animal.description)
-                            .font(.body)
-                    }
-                    .padding(.bottom, paddingAmount)
-                    
-                }
-
-                
-                Divider()
-                
-                //Locations
-                VStack(alignment: .leading) {
-                    //title
-                    HStack{
-                        Image(systemName: "map")
-                            .bold()
-                            .font(.headline)
-                        
-                        Text("Locations")
-                            .bold()
-                            .font(.title)
-                            .padding(.top, paddingAmount)
-                            .padding(.bottom, paddingAmount)
                     }
                     
-                    //body
-                    ForEach(animal.location, id: \.self) { i in
-                        HStack {
-                            Image(systemName: "mappin.circle.fill")
-                                .font(.footnote)
-                            Text(i)
-                                .font(.body)
-                                .padding(.bottom, paddingAmount/10)
-                            
-                            
-                        }
-                    }
-                }
-                .padding(.bottom, paddingAmount)
-                
-                Divider()
-                
-                //Drops
-                if animal.loot[0] != "" {
-                    VStack(alignment: .leading) {
-                        //title
-                        HStack{
-                            Image(systemName: "bag")
-                                .bold()
-                                .font(.headline)
-                            
-                            Text("Drops")
-                                .bold()
-                                .font(.title)
-                                .padding(.top, paddingAmount)
-                                .padding(.bottom, paddingAmount)
-                        }
-                        //body
-                        ForEach(animal.loot, id: \.self) { loot in
-                            
-                            //Matching Loot
-                            if pelts.contains { $0.name == loot } {
-                                Button {
-                                    presentedPelt = convertToPelt(peltName: loot, peltList: pelts)
-                                } label: {
-                                    HStack {
-                                        Image(systemName: "bag.fill.badge.plus")
-                                            .font(.footnote)
-                                        Text("\(loot)")
-                                            .font(.body)
-                                            .padding(.bottom, paddingAmount/10)
-                                            .foregroundColor(Color("AccentColor"))
-                                    }
-                                }
-                            } else {
-                                switch loot {
-                                    //Best Quality Meat
-                                case "Big Game Meat":
-                                    Button {
-                                        presentedPelt = pelts[0]
-                                    } label: {
-                                        HStack {
-                                            Image(systemName: "bag.fill.badge.plus")
-                                                .font(.footnote)
-                                            Text("\(loot)")
-                                                .font(.body)
-                                                .padding(.bottom, paddingAmount/10)
-                                                .foregroundColor(Color("AccentColor"))
-                                        }
-                                    }
-                                    //High Quality Meat
-                                case "Exotic Bird Meat", "Mature Venison", "Game Meat", "Succulent Fish", "Prime Beef", "Tender Pork Loin":
-                                    Button {
-                                        presentedPelt = pelts[1]
-                                    } label: {
-                                        HStack {
-                                            Image(systemName: "bag.fill.badge.plus")
-                                                .font(.footnote)
-                                            Text("\(loot)")
-                                                .font(.body)
-                                                .padding(.bottom, paddingAmount/10)
-                                                .foregroundColor(Color("AccentColor"))
-                                        }
-                                    }
-                                    //Good Quality Meat
-                                case "Plump Bird Meat", "Crustacean Meat", "Gristly Mutton", "Flaky Fish":
-                                    Button {
-                                        presentedPelt = pelts[2]
-                                    } label: {
-                                        HStack {
-                                            Image(systemName: "bag.fill.badge.plus")
-                                                .font(.footnote)
-                                            Text("\(loot)")
-                                                .font(.body)
-                                                .padding(.bottom, paddingAmount/10)
-                                                .foregroundColor(Color("AccentColor"))
-                                        }
-                                    }
-                                    //Low Quality Meat
-                                case "Gritty Fish", "Gamey Bird Meat", "Stringy Meat", "Herptile Meat":
-                                    Button {
-                                        presentedPelt = pelts[3]
-                                    } label: {
-                                        HStack {
-                                            Image(systemName: "bag.fill.badge.plus")
-                                                .font(.footnote)
-                                            Text("\(loot)")
-                                                .font(.body)
-                                                .padding(.bottom, paddingAmount/10)
-                                                .foregroundColor(Color("AccentColor"))
-                                        }
-                                    }
-                                    //Feathers
-                                case "Blue Jay Feather", "Booby Feather", "Cardinal Feather", "Chicken Feather", "Condor Feather", "Cormorant Feather", "Crane Feather", "Crow Feather", "Duck Feather", "Eagle Feather", "Egret Feather", "Goose Feather", "Hawk Feather", "Heron Feather", "Loon Feather", "Oriole Feather", "Owl Feather", "Parakeet Feather", "Parrot Feather", "Peccary Feather", "Pelican Feather", "Pheasant Feather", "Pig Feather", "Pigeon Feather", "Quail Feather", "Raven Feather", "Robin Feather", "Rooster Feather", "Seagull Feather", "Songbird Feather", "Sparrow Feather", "Spoonbill Plume", "Turkey Feather", "Vulture Feather", "Waxwing Feather", "Woodpecker Feather", "Bat Wing":
-                                    Button {
-                                        presentedPelt = pelts[4]
-                                    } label: {
-                                        HStack {
-                                            Image(systemName: "bag.fill.badge.plus")
-                                                .font(.footnote)
-                                            Text("\(loot)")
-                                                .font(.body)
-                                                .padding(.bottom, paddingAmount/10)
-                                                .foregroundColor(Color("AccentColor"))
-                                        }
-                                    }
-                                case "Flight Feather":
-                                    Button {
-                                        presentedPelt = pelts[5]
-                                    } label: {
-                                        HStack {
-                                            Image(systemName: "bag.fill.badge.plus")
-                                                .font(.footnote)
-                                            Text("\(loot)")
-                                                .font(.body)
-                                                .padding(.bottom, paddingAmount/10)
-                                                .foregroundColor(Color("AccentColor"))
-                                        }
-                                    }
-                                    //Everything else
-                                default:
-                                    HStack {
-                                        Image(systemName: "bag.fill.badge.plus")
-                                            .font(.footnote)
-                                        Text("\(loot)")
-                                            .font(.body)
-                                            .padding(.bottom, paddingAmount/10)
-                                    }
-                                    
-                                }
-                            }
-                            
-                            
-  
-                        }
-                        .padding(.bottom, paddingAmount)
-                        .sheet(item: $presentedPelt) { peltName in
-                            PeltDetail(pelt: peltName, compact: true)
-                                .presentationDetents([.medium, .large])
-                        }
-                        Divider()
+                    // Locations Section
+                    InfoSection(icon: "map", title: "Locations") {
+                        LocationsList(locations: animal.location)
                     }
                     
-                    //Tips
-                    if animal.tips != "" {
-                        VStack(alignment: .leading) {
-                            //title
-                            HStack{
-                                Image(systemName: "questionmark")
-                                    .bold()
-                                    .font(.headline)
-                                
-                                Text("Tips")
-                                    .bold()
-                                    .font(.title)
-                                    .padding(.top, paddingAmount)
-                                    .padding(.bottom, paddingAmount)
-                            }
-                            //body
+                    // Drops Section
+                    if !animal.loot.isEmpty {
+                        InfoSection(icon: "bag", title: "Drops") {
+                            LootList(
+                                loot: animal.loot,
+                                pelts: pelts,
+                                presentedPelt: $presentedPelt
+                            )
+                        }
+                    }
+                    
+                    // Tips Section
+                    if !animal.tips.isEmpty {
+                        InfoSection(icon: "questionmark", title: "Tips") {
                             Text(animal.tips)
-                                .font(.body)
+                                .font(.title2)
                         }
-                        .padding(.bottom, paddingAmount)
                     }
                     
-                    //Trivia
-                    if animal.trivia != "" {
-                        if animal.tips != "" {
-                            Divider() }
-                        VStack(alignment: .leading) {
-                            //title
-                            HStack{
-                                Image(systemName: "lightbulb")
-                                    .bold()
-                                    .font(.headline)
-                                
-                                Text("Trivia")
-                                    .bold()
-                                    .font(.title)
-                                    .padding(.top, paddingAmount)
-                                    .padding(.bottom, paddingAmount)
-                            }
-                            //body
+                    // Trivia Section
+                    if !animal.trivia.isEmpty {
+                        InfoSection(icon: "lightbulb", title: "Trivia") {
                             Text(animal.trivia)
-                                .font(.body)
+                                .font(.title2)
                         }
-                        .padding(.bottom, paddingAmount)
-                        
                     }
                 }
+                .padding(.horizontal)
             }
-            .padding(.horizontal, 10.0)
-            .navigationTitle(animal.name)
         }
-        
-        
+        .padding()
+        .navigationTitle(animal.name)
+        .sheet(item: $presentedPelt) { pelt in
+            PeltDetail(pelt: pelt, compact: true)
+                .presentationDetents([.medium, .large])
+        }
+        #else
+        ScrollView {
+            VStack(alignment: .leading, spacing: sectionSpacing) {
+                // Header Image
+                Image(animal.mainImage)
+                    .resizable()
+                    .scaledToFit()
+                
+                VStack(alignment: .leading, spacing: 16) {
+                    // Description Section
+                    if !animal.description.isEmpty {
+                        InfoSection(
+                            icon: "newspaper",
+                            title: "Description",
+                            showDanger: animal.danger == "5"
+                        ) {
+                            Text(animal.description)
+                        }
+                    }
+                    
+                    // Locations Section
+                    InfoSection(icon: "map", title: "Locations") {
+                        LocationsList(locations: animal.location)
+                    }
+                    
+                    // Drops Section
+                    if !animal.loot.isEmpty {
+                        InfoSection(icon: "bag", title: "Drops") {
+                            LootList(
+                                loot: animal.loot,
+                                pelts: pelts,
+                                presentedPelt: $presentedPelt
+                            )
+                        }
+                    }
+                    
+                    // Tips Section
+                    if !animal.tips.isEmpty {
+                        InfoSection(icon: "questionmark", title: "Tips") {
+                            Text(animal.tips)
+                        }
+                    }
+                    
+                    // Trivia Section
+                    if !animal.trivia.isEmpty {
+                        InfoSection(icon: "lightbulb", title: "Trivia") {
+                            Text(animal.trivia)
+                        }
+                    }
+                }
+                .padding(.horizontal)
+            }
+        }
+        .navigationTitle(animal.name)
+        .sheet(item: $presentedPelt) { pelt in
+            PeltDetail(pelt: pelt, compact: true)
+                .presentationDetents([.medium, .large])
+        }
+        #endif
     }
 }
-//
-//struct AnimalDetail_Previews: PreviewProvider {
-//    static var previews: some View {
-//        AnimalDetail(animal: Animal.example, pelts: Pelt.exampleList)
-//    }
-//}
-//
+
+// MARK: - Supporting Views
+private struct InfoSection<Content: View>: View {
+    let icon: String
+    let title: String
+    var showDanger: Bool = false
+    @ViewBuilder let content: () -> Content
+    
+    var body: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            HStack {
+                Image(systemName: icon)
+                    .bold()
+                    .font(.title)
+                
+                Text(title)
+                    .font(.largeTitle)
+                    .bold()
+                
+                Spacer()
+                
+                if showDanger {
+                    Image(systemName: "hazardsign.fill")
+                        .font(.title)
+                }
+            }
+            
+            content()
+            
+            Divider()
+        }
+    }
+}
+
+private struct LocationsList: View {
+    let locations: [String]
+    
+    var body: some View {
+        ForEach(locations, id: \.self) { location in
+            HStack {
+                Image(systemName: "mappin.circle.fill")
+                    .font(.title2)
+                Text(location)
+                    .font(.title2)
+            }
+            #if os(tvOS)
+            .padding(.vertical, 4)
+            #endif
+        }
+    }
+}
+
+private struct LootList: View {
+    let loot: [String]
+    let pelts: [Pelt]
+    @Binding var presentedPelt: Pelt?
+    
+    var body: some View {
+        ForEach(loot, id: \.self) { item in
+            LootButton(
+                item: item,
+                pelts: pelts,
+                presentedPelt: $presentedPelt
+            )
+        }
+    }
+}
+
+private struct LootButton: View {
+    let item: String
+    let pelts: [Pelt]
+    @Binding var presentedPelt: Pelt?
+    
+    var body: some View {
+        Button {
+            presentedPelt = determineSelectedPelt(for: item)
+        } label: {
+            HStack {
+                Image(systemName: "bag.fill.badge.plus")
+                    .font(.title2)
+                Text(item)
+                    .font(.title2)
+                    .foregroundColor(isInteractive ? .accentColor : .primary)
+            }
+            #if os(tvOS)
+            .padding(.vertical, 4)
+            #endif
+        }
+        .disabled(!isInteractive)
+    }
+    
+    private var isInteractive: Bool {
+        pelts.contains(where: { $0.name == item }) || isSpecialLoot(item)
+    }
+    
+    private func determineSelectedPelt(for item: String) -> Pelt? {
+        if let matchingPelt = pelts.first(where: { $0.name == item }) {
+            return matchingPelt
+        }
+        
+        return getPeltForSpecialLoot(item, from: pelts)
+    }
+}
+
+// MARK: - Helper Functions
+private func getPeltForSpecialLoot(_ loot: String, from pelts: [Pelt]) -> Pelt? {
+    // Safety check for empty pelts array
+    guard !pelts.isEmpty else { return nil }
+    
+    switch loot {
+    case "Big Game Meat":
+        return pelts.count > 0 ? pelts[0] : nil
+    case "Exotic Bird Meat", "Mature Venison", "Game Meat", "Succulent Fish", "Prime Beef", "Tender Pork Loin":
+        return pelts.count > 1 ? pelts[1] : nil
+    case "Plump Bird Meat", "Crustacean Meat", "Gristly Mutton", "Flaky Fish":
+        return pelts.count > 2 ? pelts[2] : nil
+    case "Gritty Fish", "Gamey Bird Meat", "Stringy Meat", "Herptile Meat":
+        return pelts.count > 3 ? pelts[3] : nil
+    case let feather where isFeather(feather):
+        return pelts.count > 4 ? pelts[4] : nil
+    case "Flight Feather":
+        return pelts.count > 5 ? pelts[5] : nil
+    default:
+        return nil
+    }
+}
+
+private func isFeather(_ loot: String) -> Bool {
+    let feathers = ["Blue Jay Feather", "Booby Feather", "Cardinal Feather", "Chicken Feather",
+                   "Condor Feather", "Cormorant Feather", "Crane Feather", "Crow Feather",
+                   "Duck Feather", "Eagle Feather", "Egret Feather", "Goose Feather",
+                   "Hawk Feather", "Heron Feather", "Loon Feather", "Oriole Feather",
+                   "Owl Feather", "Parakeet Feather", "Parrot Feather", "Peccary Feather",
+                   "Pelican Feather", "Pheasant Feather", "Pig Feather", "Pigeon Feather",
+                   "Quail Feather", "Raven Feather", "Robin Feather", "Rooster Feather",
+                   "Seagull Feather", "Songbird Feather", "Sparrow Feather", "Spoonbill Plume",
+                   "Turkey Feather", "Vulture Feather", "Waxwing Feather", "Woodpecker Feather",
+                   "Bat Wing"]
+    return feathers.contains(loot)
+}
+
+private func isSpecialLoot(_ loot: String) -> Bool {
+    getPeltForSpecialLoot(loot, from: []) != nil
+}
